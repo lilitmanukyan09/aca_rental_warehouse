@@ -32,7 +32,7 @@ Based on this table, I created the table of Stays, as follows:
         stay['end_date'] = stay['start_date'] + datetime.timedelta(days=365)
         stay.drop('date', axis = 1, inplace = True)
 ```
-So, the problem remains when generating new data for the stays table. The solution was to randomly select property_id and tenant_id from the database, and for the start date, take the maximum occupied date for the specific property_id in the database and for the new entry select it as a start date. End date would span 30 days from start date, accordingly.
+So, the problem remained when generating new data for the stays table. The solution was to randomly select property_id and tenant_id from the database, and for the start date, take the maximum occupied date for the specific property_id in the database and for the new entry select it as a start date. End date would span 30 days from start date, accordingly.
 ```python
         for k in range (1):
             stay['tenant_id'].append(np.random.choice(tenants['tenant_id'].unique()))
