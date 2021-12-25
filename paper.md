@@ -25,7 +25,7 @@ _**Challenges and solutions**_
         transactions = pd.DataFrame(transactions)
         transactions = transactions.drop_duplicates(subset=['property_id'], keep = 'last')
 ```
-        Based on this table, I created the table of Stays, as follows:
+Based on this table, I created the table of Stays, as follows:
 ```python
         stay = pd.DataFrame(transactions[['tenant_id', 'property_id', 'date']])
         stay['start_date'] = (stay['date'] + datetime.timedelta(days=10)).dt.date
