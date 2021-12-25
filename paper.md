@@ -46,4 +46,4 @@ As there is a subtle chance that two successive rows could generate the same pro
 
 #### **AWS Lambda, importing libraries** : 
 The project has three generator tables, which needed to be set up with AWS Lambda and EventBridge. The main problem was to import the third-party libraries to the Lambda layers, so that the generators could work with them. To resolve the situation, I downloaded the Wheel files of Pandas and Psycopg2 libraries for Python 3.8, unpacked them, zipped them with the name 'python' and added as a layer of Lambda. Then, for every function I added the layers and constructed the lambda_function.py file to run my generators. 
-The next step was to set up the AWS EventBridge service to trigger the lambda function to work on defined schedule.  
+The final step was to set up the AWS EventBridge service to trigger the lambda function to work on defined schedule.  
