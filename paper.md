@@ -5,7 +5,7 @@
 
 ### _**Challenges and solutions**_
 
-#### **<font color="red"> Creating and filling the tables in the database</font>** :
+#### **Creating and filling the tables in the database** :
 The first major issue arose when trying to create and fill the tables in the database. The creation was implemented successfully, but the solutions on the web for filling the values of the table was quite confusing and overcomplicated for me. So based on a solution from google, I simplified the process as follows. I created a dictionary of table names as keys and tables themselves as values. Thereon, a simple but effective snippet of code did the magic :)
 ```python
         for name, data in sql_script.table_names.items():
@@ -43,3 +43,7 @@ So, the problem remained when generating new data for the stays table. The solut
             stay['end_date'].append(datetime.datetime.strptime(str(stay['start_date'][0]), "%Y-%m-%d") + datetime.timedelta(days = 30))
 ```
 As there is a subtle chance that two successive rows could generate the same property_id, I decided to create and insert rows to the database one by one, not with larger batches.
+
+#### **AWS Lambda, importing libraries** : 
+The project has three generator tables, which needed to be set up with AWS Lambda and EventBridge. The main problem was to import the third-party libraries to the Lambda layers, so that the generators could work with them. To resolve the situation, I downloaded the Wheel files of Pandas and Psycopg2 libraries for Python 3.8, unpacked them, zipped them with the name 'python' and added as a layer of Lambda. Then, for every function I added the layers and constructed the lambda_function.py file to run my generators. 
+The next step was to set up the AWS EventBridge service to trigger the lambda function to work on defined schedule.  
