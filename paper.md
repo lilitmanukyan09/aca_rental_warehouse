@@ -40,3 +40,4 @@ So, the problem remains when generating new data for the stays table. The soluti
             stay['start_date'].append(stays[stays['property_id'].isin(stay['property_id'])]['end_date'].max())
             stay['end_date'].append(datetime.datetime.strptime(str(stay['start_date'][0]), "%Y-%m-%d") + datetime.timedelta(days = 30))
 ```
+As there is a subtle chance that two successive rows could generate the same property_id, I decided to create and insert rows to the database one by one, not with larger batches.
