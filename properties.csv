@@ -1,0 +1,718 @@
+,property_id,region,city,location,property_type,furnishing_state,lease_term,availability,rent,deposit,beds,baths,size,pets,smoking,parking
+130,19655,Brentwood,Calgary,3524 31 St. NW,Apartment,Unfurnished,Long Term,15-Dec-21,1388,$399 ,2 bd,1 ba,657 ft2,Cats & dogs negotiable,Non-smoking,Covered
+129,19658,Fairview,Calgary,8208 Flint Rd SE,Apartment,Unfurnished,Long Term,15-Dec-21,1237,$399 ,2 bd,1 ba,864 ft2,Cats negotiable,Non-smoking,Covered
+133,19662,Beltline,Calgary,349 14 Ave. SW,Apartment,Unfurnished,Long Term,Immediate,1064,$399 ,studio,1 ba,455 ft2,Cats & dogs negotiable,Non-smoking,Street
+128,19663,Glamorgan,Calgary,71 Glamis Dr. SW,Apartment,Unfurnished,Long Term,15-Dec-21,1437,$399 ,2 bd,1 ba,848 ft2,Cats & dogs negotiable,Non-smoking,Covered
+131,21358,Rundle,Calgary,2631 38 St. NE,Apartment,Unfurnished,Long Term,Immediate,1319,$399 ,2 bd,1 ba,820 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+116,27229,Greenview,Calgary,320 Grier Ave. NE,Apartment,Unfurnished,Long Term,Immediate,1269,$399 ,2 bd,1 ba,900 ft2,Cats & dogs negotiable,Non-smoking,Underground
+118,27543,Thorncliffe,Calgary,6440 Centre St. NE,Townhouse,Unfurnished,Long Term,Immediate,1589,$399 ,3 bd,1 ba,982 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+126,29181,Lynnwood,Calgary,200 Lynnview Rd. SE,Townhouse,Unfurnished,Long Term,1-Dec-21,1449,$399 ,2 bd,1 ba,863 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+127,29358,Patterson Heights,Calgary,401 Patterson Hill SW,Apartment,Unfurnished,Long Term,15-Dec-21,996,$399 ,1 bd,1 ba,600 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+134,98021,Panorama Hills,Calgary,Panaroma Hills,Basement,Furnished,Negotiable,Immediate,950,1 Month Rent,1 bd,1 ba,,No pets,Non-smoking,Street
+251,103052,Waskasoo,Red-Deer,4511 55 Street,Apartment,Unfurnished,Negotiable,Immediate,800,$800 ,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+161,142970,Southwood,Calgary,Southwood,Townhouse,Unfurnished,Long Term,Immediate,1200,"$1,200 ",2 bd,1.5 ba,1000 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+292,266749,Lower Townsite,Fort-Mcmurray,111 Charles Avenue,Apartment,Unfurnished,Negotiable,Immediate,850,$699 ,1 bd,1 ba,667 ft2,Cats & dogs negotiable,Smoking allowed,Outdoor
+294,267087,Lower Townsite,Fort-Mcmurray,111 Charles Avenue,Apartment,Unfurnished,Negotiable,Immediate,1000,$699 ,2 bd,1 ba,848 ft2,Cats & dogs negotiable,Smoking allowed,Outdoor
+90,273170,BC,Kelowna,420 Valley Road,Apartment,Unfurnished,Long Term,Immediate,1598,Half Monthly Rent,1 bd,1 ba,622 ft2,Cats & dogs allowed,Non-smoking,
+228,288397,Lancaster Green,Red-Deer,2450A 22nd St,Apartment,Unfurnished,Long Term,Immediate,1308,$700 ,2 bd,1 ba,859 ft2,Cats & dogs allowed,Non-smoking,Street
+165,288622,Kilkenny,Edmonton,7010 149 Ave. NW,Apartment,Unfurnished,Long Term,Immediate,1087,$299 ,2 bd,1 ba,825 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+203,288644,Athlone,Edmonton,13124 126 St. NW,Apartment,Unfurnished,Long Term,Immediate,934,$299 ,1 bd,1 ba,775 ft2,Cats & dogs negotiable,Non-smoking,Covered
+169,288656,Strathcona,Edmonton,8920 100 St. NW,Apartment,Unfurnished,Long Term,Immediate,1090,$299 ,1 bd,1 ba,734 ft2,Cats negotiable,Non-smoking,Underground
+211,288658,Cromdale,Edmonton,150-8930 Jasper Ave. NW,Apartment,Unfurnished,Long Term,Immediate,877,$299 ,1 bd,1 ba,736 ft2,Cats & dogs negotiable,Non-smoking,Underground
+171,288663,Westbrook Estate,Edmonton,3624 119 St. NW,Apartment,Unfurnished,Long Term,Immediate,1127,$299 ,2 bd,1 ba,964 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+210,288667,Tweddle Place,Edmonton,2378 Millbourne Rd. W,Townhouse,Unfurnished,Long Term,Immediate,1117,$299 ,2 bd,1.5 ba,1075 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+168,288683,Bonnie Doon,Edmonton,8830 85 St. NW,Apartment,Unfurnished,Long Term,Immediate,999,$299 ,1 bd,1 ba,649 ft2,Cats negotiable,Non-smoking,Underground
+304,288862,Lower Townsite,Fort-Mcmurray,10414 Main Street,Apartment,Unfurnished,Long Term,Immediate,1095,$150 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+271,288863,Thickwood,Fort-Mcmurray,117 Stroud Bay,Apartment,Unfurnished,Long Term,Immediate,1060,$150 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+297,288865,Lower Townsite,Fort-Mcmurray,6 Nixon Street,Apartment,Unfurnished,Long Term,Immediate,985,$150 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+37,289157,BC,Victoria,827 Selkirk Avenue,Apartment,Unfurnished,Long Term,Call for Availability,1295,"$1,295 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+16,289165,Downtown,Victoria,1204 Yates Street,Apartment,Unfurnished,Long Term,Call for Availability,1095,"$1,095 ",studio,1 ba,,No pets,Smoking negotiable,Street
+20,289166,BC,Victoria,243 Gorge Road East,Apartment,Unfurnished,Long Term,Call for Availability,1350,"$1,350 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+23,289167,BC,Victoria,425 Simcoe Street,Apartment,Unfurnished,Long Term,Call for Availability,1525,"$1,525 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+32,289168,BC,Victoria,830 Craigflower Road,Apartment,Unfurnished,Long Term,Call for Availability,1575,"$1,575 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+688,289169,NS,Halifax,2334 Longard Plaza,Apartment,Unfurnished,Long Term,Call for Availability,1095,"$1,095 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+673,289170,NS,Halifax,40 Charlotte Lane,Apartment,Unfurnished,Long Term,Call for Availability,1090,"$1,090 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+680,289171,NS,Halifax,1333 South Park Street,Apartment,Unfurnished,Long Term,Call for Availability,1250,"$1,250 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+686,289172,NS,Halifax,1030 South Park Street,Apartment,Unfurnished,Long Term,Call for Availability,1140,"$1,140 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+676,289173,NS,Halifax,2074 Robie Street,Apartment,Unfurnished,Long Term,Call for Availability,1345,"$1,345 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+532,289185,ON,Toronto,75 Eastdale Avenue,Apartment,Unfurnished,Long Term,Immediate,2625,"$2,625 ",4 bd,1 ba,,No pets,Smoking negotiable,Street
+467,289198,ON,Mississauga,1055 Bloor Street,Apartment,Unfurnished,Long Term,Immediate,1990,"$1,990 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+463,289200,ON,Mississauga,1560 Bloor Street,Apartment,Unfurnished,Long Term,Immediate,2395,"$2,395 ",3 bd,1 ba,,No pets,Smoking negotiable,Street
+522,289203,ON,Toronto,3420 Morning Star Drive,Apartment,Unfurnished,Long Term,Immediate,1995,"$1,995 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+465,289204,ON,Mississauga,2360 Bonner Road,Apartment,Unfurnished,Long Term,Immediate,1725,"$1,725 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+457,289206,ON,Mississauga,"2076, 2100 Sherobee Road",Apartment,Unfurnished,Long Term,Immediate,1795,"$1,795 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+539,289206,ON,Toronto,"2076, 2100 Sherobee Road",Apartment,Unfurnished,Long Term,Immediate,1795,"$1,795 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+521,289216,ON,Toronto,30 Livonia Place,Apartment,Unfurnished,Long Term,Immediate,1790,"$1,790 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+512,289219,ON,Toronto,225 Markham Road,Apartment,Unfurnished,Long Term,Immediate,1670,"$1,670 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+49,289285,BC,Vancouver,1210 Cameron St.,Apartment,Unfurnished,Long Term,Immediate,1425,712.5,1 bd,1 ba,479 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+470,289512,ON,Mississauga,2121 Rathburn Road East,Apartment,Unfurnished,Long Term,Immediate,1800,"$1,800 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+704,289513,PE,Charlottetown,517-521 Malpeque Road,Apartment,Unfurnished,Long Term,Call for Availability,1000,"$1,000 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+170,289580,Blue Quill,Edmonton,437 Saddleback Rd.,Apartment,Unfurnished,Long Term,Immediate,907,$299 ,1 bd,1 ba,695 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+34,289694,BC,Victoria,1855 Fort Street,Apartment,Unfurnished,Long Term,Call for Availability,1205,"$1,205 ",studio,1 ba,,No pets,Smoking negotiable,Street
+295,290063,Lower Townsite,Fort-Mcmurray,1 Centennial Drive,Apartment,Unfurnished,Long Term,Immediate,1090,"$1,090 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+263,290064,Lower Townsite,Fort-Mcmurray,9501 Manning Avenue,Apartment,Unfurnished,Long Term,Immediate,935,$150 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+270,290066,Thickwood,Fort-Mcmurray,113 Stroud Bay,Apartment,Unfurnished,Long Term,Immediate,1010,$150 ,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+300,290069,Thickwood,Fort-Mcmurray,220 Timberline Drive,Apartment,Unfurnished,Long Term,Immediate,1211,$150 ,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+275,290072,Thickwood,Fort-Mcmurray,115 Spruce Street,Apartment,Unfurnished,Long Term,Immediate,1010,$150 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+299,290075,Thickwood,Fort-Mcmurray,125 Spruce Street,Apartment,Unfurnished,Long Term,Immediate,1010,$150 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+328,292367,Nutana,Saskatoon,606 Victoria Avenue,Apartment,Unfurnished,Long Term,Immediate,1275,"$1,275 ",1 bd,1 ba,690 ft2,Cats negotiable,Non-smoking,Underground
+325,292818,Evergreen,Saskatoon,226 Akhtar Bend,Apartment,Unfurnished,Long Term,Immediate,1368,$700 ,2 bd,2 ba,937 ft2,Cats & dogs allowed,Non-smoking,Street
+412,294016,Bridgwater Centre,Winnipeg,225 North Town Rd,Apartment,Unfurnished,Long Term,Immediate,1468,Half Monthly Rent,2 bd,1 ba,859 ft2,Cats & dogs allowed,Non-smoking,Street
+354,294100,River Heights,Saskatoon,14 Assiniboine Drive,Apartment,Unfurnished,Long Term,Immediate,925,$350 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+355,294111,Mount Royal,Saskatoon,135 Avenue W South,Apartment,Unfurnished,Long Term,Immediate,710,$350 ,1 bd,1 ba,605 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+352,294113,Greystone Heights,Saskatoon,2513 7 Street East,Apartment,Unfurnished,Long Term,Immediate,925,$350 ,1 bd,1 ba,600 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+353,294126,Pleasant Hill,Saskatoon,2014 20 Street W,Apartment,Unfurnished,Long Term,Immediate,699,$350 ,1 bd,1 ba,575 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+35,294145,BC,Victoria,625 Constance Avenue,Apartment,Unfurnished,Long Term,Call for Availability,1600,"$1,600 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+17,294153,BC,Victoria,3501 Savannah Avenue,Apartment,Unfurnished,Long Term,Call for Availability,1690,"$1,690 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+22,294155,BC,Victoria,443 Superior Street,Apartment,Unfurnished,Long Term,Call for Availability,1425,"$1,425 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+26,294156,BC,Victoria,200 Gorge Road West,Apartment,Unfurnished,Long Term,Call for Availability,1725,"$1,725 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+31,294157,BC,Victoria,535 Niagara Street,Apartment,Unfurnished,Long Term,Call for Availability,1425,"$1,425 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+24,294158,Harris Green,Victoria,1039 View Street,Apartment,Unfurnished,Long Term,Call for Availability,1525,"$1,525 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+27,294160,BC,Victoria,788-790 Dominion Road,Apartment,Unfurnished,Long Term,Call for Availability,1200,"$1,200 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+21,294161,Fairfield,Victoria,955 Humboldt Street,Apartment,Unfurnished,Long Term,Call for Availability,1495,"$1,495 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+685,294162,NS,Halifax,76 Armenia Drive,Apartment,Unfurnished,Long Term,Call for Availability,1795,"$1,795 ",2 bd + den,1 ba,,No pets,Smoking negotiable,Street
+554,294165,ON,Ottawa,1749 Aspenview Way,Apartment,Unfurnished,Long Term,Immediate,2095,"$2,095 ",3 bd,1 ba,,No pets,Smoking negotiable,Street
+592,294166,ON,Ottawa,1998 Beaconwood Drive,Apartment,Unfurnished,Long Term,Immediate,1985,"$1,985 ",3 bd,1 ba,,No pets,Smoking negotiable,Street
+590,294167,ON,Ottawa,650 Woodcliffe Private,Apartment,Unfurnished,Long Term,Immediate,1850,"$1,850 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+541,294177,ON,Toronto,321 Chaplin Crescent,Apartment,Unfurnished,Long Term,Immediate,3250,"$3,250 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+534,294185,ON,Toronto,2020 Sheppard Ave West,Apartment,Unfurnished,Long Term,Immediate,1670,"$1,670 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+519,294188,ON,Toronto,215 Markham Road,Apartment,Unfurnished,Long Term,Immediate,1660,"$1,660 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+529,294189,ON,Toronto,370 McCowan Road,Apartment,Unfurnished,Long Term,Immediate,1595,"$1,595 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+699,294205,PE,Charlottetown,35 Belvedere Avenue,Apartment,Unfurnished,Long Term,Call for Availability,660,$660 ,1 bd,1 ba,,No pets,Smoking negotiable,Street
+698,294206,PE,Charlottetown,"219, 221, 223 St. Peters Rd.",Apartment,Unfurnished,Long Term,Call for Availability,793,$793 ,2 bd,1 ba,,No pets,Smoking negotiable,Street
+706,294207,PE,Charlottetown,129-131 Norwood Road,Apartment,Unfurnished,Long Term,Call for Availability,725,$725 ,2 bd,1 ba,,No pets,Smoking negotiable,Street
+697,294208,PE,Charlottetown,2-46 River Ridge Drive,Apartment,Unfurnished,Long Term,Call for Availability,1416,"$1,416 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+164,294276,Callingwood,Edmonton,17119 64 Ave. NW,Apartment,Unfurnished,Long Term,Immediate,920,$299 ,1 bd,1 ba,636 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+167,294278,Callingwood,Edmonton,17311 69 Ave. NW,Apartment,Unfurnished,Long Term,Immediate,899,$299 ,1 bd,1 ba,733 ft2,Cats & dogs negotiable,Non-smoking,Covered
+166,294279,Lynnwood,Edmonton,15503 87 Ave. NW,Apartment,Unfurnished,Long Term,Immediate,807,$299 ,1 bd,1 ba,734 ft2,Cats & dogs negotiable,Non-smoking,Covered
+202,294286,Thorncliffe,Edmonton,8630 182 St. NW,Apartment,Unfurnished,Long Term,Immediate,1027,$299 ,2 bd,1 ba,884 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+417,294330,Dakota Crossing,Winnipeg,1153 St. Anne's Rd.,Apartment,Unfurnished,Long Term,Immediate,1178,Half Monthly Rent,1 bd,1 ba,647 ft2,Cats & dogs allowed,Non-smoking,Street
+414,294456,Tuxedo Industrials,Winnipeg,586 Sterling Lyon,Apartment,Unfurnished,Long Term,Immediate,1398,Half Monthly Rent,2 bd,1 ba,859 ft2,Cats & dogs allowed,Non-smoking,Street
+18,294835,Oaklands,Victoria,3820 Shelbourne Street,Apartment,Unfurnished,Long Term,Call for Availability,1555,"$1,555 ",1 bd + den,1 ba,,No pets,Smoking negotiable,Street
+282,295161,Lower Townsite,Fort-Mcmurray,21 Macdonald Drive,Apartment,Unfurnished,Long Term,Immediate,1200,One Month's Rent,1 bd,1 ba,600 ft2,Cats & dogs negotiable,Non-smoking,Covered
+335,295290,Fairhaven,Saskatoon,423 Pendygrasse Road,Apartment,Unfurnished,Long Term,Immediate,979,$750 ,1 bd,1 ba,730 - 760,Cats & dogs negotiable,Non-smoking,
+696,295634,PE,Charlottetown,193 Westridge Crescent,Apartment,Unfurnished,Long Term,Immediate,676,$676 ,1 bd,1 ba,,No pets,Smoking negotiable,Street
+28,296061,BC,Victoria,3244 Quadra Street,Apartment,Unfurnished,Long Term,Call for Availability,1395,"$1,395 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+30,296062,BC,Victoria,70-76 Dallas Road,Apartment,Unfurnished,Long Term,Call for Availability,1800,"$1,800 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+703,296182,PE,Charlottetown,20-22 Garfield Street,Apartment,Unfurnished,Long Term,Call for Availability,825,$825 ,1 bd,1 ba,,No pets,Smoking negotiable,Street
+700,296183,PE,Charlottetown,315 Norwood Road,Apartment,Unfurnished,Long Term,Call for Availability,942,$942 ,2 bd,1 ba,,No pets,Smoking negotiable,Street
+15,296453,Fairfield,Victoria,967 Collinson Street,Apartment,Unfurnished,Long Term,Call for Availability,1795,"$1,795 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+75,297475,West Point Grey,Vancouver,3550 West Broadway Street,Apartment,Unfurnished,Long Term,Immediate,2600,"$1,300 ",2 bd,1 ba,790 ft2,Cats & dogs negotiable,Non-smoking,Underground
+33,297781,Hillside - Quadra,Victoria,1140 Hillside Avenue,Apartment,Unfurnished,Long Term,Call for Availability,1455,"$1,455 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+29,297782,Fairfield,Victoria,976 Humboldt Street,Apartment,Unfurnished,Long Term,Call for Availability,1550,"$1,550 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+695,297836,PE,Charlottetown,5 Rockcliffe Avenue,Apartment,Unfurnished,Long Term,Immediate,875,$875 ,1 bd,1 ba,,No pets,Smoking negotiable,Street
+705,297837,PE,Charlottetown,514 Malpeque Road,Apartment,Unfurnished,Long Term,Call for Availability,970,$970 ,2 bd,1 ba,,No pets,Smoking negotiable,Street
+701,297838,PE,Charlottetown,18-24 Waterview Heights,Apartment,Unfurnished,Long Term,Call for Availability,1016,"$1,016 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+258,297852,Forth,Red-Deer,3110 47 Avenue,Townhouse,Unfurnished,Long Term,Immediate,1170,$395 ,3 bd,1.5 ba,1102 ft2,No pets,Non-smoking,Outdoor
+160,298139,Beltline,Calgary,508 - 1501 6 Street SW,Condo,Unfurnished,Negotiable,Immediate,1200,"$1,200 ",1 bd,1 ba,553 ft2,Cats negotiable,Non-smoking,
+219,300037,Michener Hill,Red-Deer,6 - 4021 50A Street,Apartment,Unfurnished,Negotiable,Immediate,890,$890 ,1 bd,1 ba,700 ft2,No pets,Non-smoking,
+231,300069,Vanier Woods,Red-Deer,39 Van Slyke Way,Apartment,Unfurnished,Long Term,Immediate,1129,"$1,129 ",1 bd,1 ba,588 ft2,Cats & dogs negotiable,Non-smoking,
+694,300157,PE,Charlottetown,20 Maypoint Road,Apartment,Unfurnished,Long Term,Immediate,800,$800 ,2 bd,1 ba,,No pets,Smoking negotiable,Street
+371,301339,Fairways West,Regina,1060 Dorothy St.,Townhouse,Unfurnished,Long Term,Immediate,1039,$299 ,2 bd,1 ba,877 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+370,301340,Gladmer Park,Regina,700 Gladmer Pk.,Townhouse,Unfurnished,Long Term,Immediate,1175,$299 ,2 bd,1 ba,864 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+363,301342,Hillsdale,Regina,22-41 Munroe Pl.,Apartment,Unfurnished,Long Term,Immediate,1003,$299 ,2 bd,1 ba,860 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+310,301351,Central Business District,Saskatoon,325 5TH Ave. N,Apartment,Unfurnished,Long Term,Immediate,1380,$299 ,2 bd,1 ba,1128 ft2,No pets,Non-smoking,Covered
+212,301352,South Hill,Red-Deer,3710 52 Ave.,Apartment,Unfurnished,Long Term,Immediate,1020,$299 ,2 bd,1 ba,721 ft2,Cats negotiable,Non-smoking,Covered
+217,301356,Oriole Park,Red-Deer,6209 60 St.,Apartment,Unfurnished,Long Term,Immediate,882,$299 ,1 bd,1 ba,594 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+368,301359,Albert Park,Regina,4040 Gordon Rd.,Apartment,Unfurnished,Long Term,Immediate,1179,$299 ,1 bd,1 ba,675 ft2,Cats negotiable,Non-smoking,Outdoor
+216,301364,West Park,Red-Deer,561-3535 55 Ave.,Townhouse,Unfurnished,Long Term,Immediate,1154,$299 ,2 bd,1 ba,864 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+261,301370,Abasand,Fort-Mcmurray,119 Charles Ave.,Apartment,Unfurnished,Long Term,Immediate,1188,$299 ,1 bd,1 ba,650 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+267,301379,Lower Townsite,Fort-Mcmurray,92 Biggs Ave.,Apartment,Unfurnished,Long Term,Immediate,1398,$299 ,2 bd,1 ba,850 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+266,301380,Lower Townsite,Fort-Mcmurray,82 Biggs Ave.,Apartment,Unfurnished,Long Term,Immediate,1236,$299 ,2 bd,1 ba,850 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+215,301386,Highland Green,Red-Deer,5925 63 St.,Apartment,Unfurnished,Long Term,Immediate,995,$299 ,2 bd,1 ba,875 ft2,Cats negotiable,Non-smoking,Underground
+214,301396,Pines,Red-Deer,104-7108 Parke Ave.,Apartment,Unfurnished,Long Term,Immediate,1074,$299 ,2 bd,1 ba,988 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+365,301421,Fairways West,Regina,1062 Dorothy St.,Apartment,Unfurnished,Long Term,Immediate,1309,$299 ,2 bd,2 ba,915 ft2,Cats & dogs negotiable,Non-smoking,Underground
+372,301436,Hillsdale,Regina,41 Munroe Place,Townhouse,Unfurnished,Long Term,Immediate,1295,$299 ,2 bd,1 ba,850 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+264,301454,Abasand,Fort-Mcmurray,112 Charles Ave.,Apartment,Unfurnished,Long Term,Immediate,1207,$299 ,2 bd,1 ba,750 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+369,301456,Albert Park,Regina,193 Lockwood Rd.,Apartment,Unfurnished,Long Term,Immediate,1019,$299 ,1 bd,1 ba,705 ft2,Cats negotiable,Non-smoking,Outdoor
+260,301458,Thickwood,Fort-Mcmurray,270 Tundra Dr.,Apartment,Unfurnished,Long Term,Immediate,1316,$299 ,2 bd,1 ba,820 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+290,302893,Timberlea,Fort-Mcmurray,200 Lougheed Drive,Apartment,Unfurnished,Long Term,Immediate,1300,"$1,300 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+230,302926,Clearview Meadows,Red-Deer,"A, 14 Cardinal Ave",Apartment,Unfurnished,Long Term,Immediate,895,$895 ,2 bd,1 ba,,No pets,Non-smoking,Outdoor
+661,303850,NS,Halifax,41 Cowie Hill Road,Apartment,Unfurnished,Long Term,Immediate,1450,Other,2 bd,1 ba,800 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+659,303864,NS,Halifax,680 Parkland Drive,Apartment,Unfurnished,Long Term,Immediate,1575,Other,2 bd,2 ba,1163 ft2,Cats & dogs allowed,Non-smoking,Underground
+658,303870,NS,Halifax,680 Parkland Drive,Apartment,Unfurnished,Long Term,Immediate,1575,Other,2 bd,2 ba,1165 ft2,Cats & dogs allowed,Non-smoking,Underground
+434,303899,Broadway - Assiniboine,Winnipeg,33 Hargrave Street,Apartment,Unfurnished,Long Term,Immediate,1450,Other,1 bd,1 ba,1000 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+557,303928,Byward Market,Ottawa,135 York Street,Apartment,Unfurnished,Long Term,Immediate,1494,Other,1 bd,1 ba,429 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+431,303980,South Portage,Winnipeg,160 Smith Street,Apartment,Furnished,Long Term,Immediate,1743,Other,1 bd,1 ba,659 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+429,303996,Broadway - Assiniboine,Winnipeg,33 Hargrave Street,Apartment,Unfurnished,Long Term,Immediate,939,Other,1 bd,1 ba,557 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+657,303998,NS,Halifax,16 Bently Drive,Apartment,Unfurnished,Long Term,Immediate,1655,Other,2 bd,2 ba,1179 ft2,Cats & dogs allowed,Non-smoking,Underground
+663,304000,NS,Halifax,15 Bently Drive,Apartment,Unfurnished,Long Term,Immediate,1655,Other,2 bd,2 ba,1272 ft2,Cats & dogs allowed,Non-smoking,Underground
+408,304025,Broadway - Assiniboine,Winnipeg,70 Garry,Apartment,Unfurnished,Long Term,Immediate,1019,Other,1 bd,1 ba,584 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+624,304475,QC,Montreal,101 Place Charles-LeMoyne,Apartment,Unfurnished,Long Term,Immediate,1115,Other,1 bd,1 ba,602 ft2,Cats & dogs allowed,Non-smoking,Covered
+613,304487,QC,Montreal,3475 rue de la Montagne,Apartment,Unfurnished,Long Term,Immediate,1410,Other,1 bd,1 ba,581 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+316,304584,Lakewood S.C.,Saskatoon,310 Herold Rd,Apartment,Unfurnished,Long Term,Immediate,1119,$750 ,1 bd,1 ba,740 ft2,Cats & dogs negotiable,Non-smoking,Street
+138,304641,Beltline,Calgary,1606 - 1501 6 Street SW,Condo,Unfurnished,Long Term,Immediate,1450,"$1,395 ",1 bd,1 ba,500 ft2,Cats & dogs negotiable,Smoking negotiable,
+36,304731,Victoria West,Victoria,801 Esquimalt Road,Apartment,Unfurnished,Long Term,Call for Availability,1350,"$1,350 ",1 bd,1 ba,,No pets,Smoking negotiable,Street
+25,305824,Harris Green,Victoria,1110 Queens Avenue,Apartment,Unfurnished,Long Term,Call for Availability,1650,"$1,650 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+581,309224,Braemar Park - Bel Air Heights - Copeland Park,Ottawa,10 Deerfield Drive,Apartment,Unfurnished,Long Term,Immediate,1689,"$1,689 ",3 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+580,309225,Parkwood Hills - Fisher glen,Ottawa,30 Eleanor Drive,Apartment,Unfurnished,Long Term,Immediate,1429,"$1,429 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+551,309227,Centretown,Ottawa,21 James Street,Apartment,Unfurnished,Long Term,Immediate,1759,"$1,759 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+455,309230,ON,Mississauga,2700 Aquitaine Avenue,House,Unfurnished,Long Term,Immediate,2099,"$2,099 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Covered
+530,309232,ON,Toronto,16 The Links Road,Apartment,Unfurnished,Long Term,Immediate,1689,"$1,689 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+511,309234,ON,Toronto,750 York Mills Road,Apartment,Unfurnished,Long Term,Immediate,2009,"$2,009 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+506,309238,ON,Toronto,111 Pacific Avenue,Apartment,Unfurnished,Long Term,Immediate,1929,"$1,929 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+517,309239,ON,Toronto,61 Yorkville Avenue,Apartment,Unfurnished,Long Term,Immediate,3099,"$3,099 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Covered
+516,309240,ON,Toronto,150 Roehampton Avenue,Apartment,Unfurnished,Long Term,Immediate,1949,"$1,949 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Covered
+591,309707,Braemar Park - Bel Air Heights - Copeland Park,Ottawa,10 Deerfield Drive,Townhouse,Unfurnished,Long Term,Immediate,1814,"$1,814 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+567,309708,Parkwood Hills - Fisher glen,Ottawa,1343 Meadowlands Drive,Apartment,Unfurnished,Long Term,Immediate,1245,"$1,245 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+564,309709,Bayshore - Belltown,Ottawa,91 Valley Stream Drive,Apartment,Unfurnished,Long Term,Immediate,1619,"$1,619 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+556,309711,Braemar Park - Bel Air Heights - Copeland Park,Ottawa,18 & 20 Deerfield Drive,Apartment,Unfurnished,Long Term,Immediate,1420,"$1,420 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+504,309714,ON,Toronto,7 & 21 Richgrove Drive,Apartment,Unfurnished,Long Term,Immediate,1599,"$1,599 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+513,309715,ON,Toronto,177 Jameson Avenue,Apartment,Unfurnished,Long Term,Immediate,1479,"$1,479 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+548,309716,Centretown,Ottawa,185 Lyon Street North,Apartment,Unfurnished,Long Term,Immediate,1859,"$1,859 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Covered
+550,309717,Centretown,Ottawa,221 Lyon Street North,Apartment,Unfurnished,Long Term,Immediate,2189,"$2,189 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Covered
+571,310984,Faircrest,Ottawa,1833 Frobisher Lane,Apartment,Unfurnished,Long Term,Immediate,1705,"$1,705 ",2 bd,1 ba,870 ft2,Cats & dogs negotiable,Non-smoking,Covered
+479,312418,ON,Mississauga,1286 Islington Avenue,Apartment,Unfurnished,Long Term,Immediate,2650,"$2,650 ",3 bd,1.5 ba,1080 ft2,Cats & dogs negotiable,Non-smoking,Underground
+707,312781,PE,Charlottetown,20 Spring Lane,Apartment,Unfurnished,Long Term,Call for Availability,1096,"$1,096 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+331,313480,Nutana Park,Saskatoon,235 Willis Crescent,Apartment,Unfurnished,Long Term,Immediate,1455,Other,2 bd,2 ba,,Cats & dogs allowed,Non-smoking,Outdoor
+342,313482,Silverwood Heights,Saskatoon,235 Lenore Drive,Apartment,Unfurnished,Long Term,Immediate,1320,Other,2 bd,1 ba,,Cats & dogs allowed,Non-smoking,Outdoor
+336,313484,Sutherland,Saskatoon,300 108 St,Apartment,Unfurnished,Long Term,Immediate,1065,Other,1 bd,1 ba,629 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+158,314053,Panorama Hills,Calgary,1213 - 60 Panatella Street Northwest,Condo,Unfurnished,Negotiable,Immediate,1200,"$1,200 ",1 bd,1 ba,600 ft2,No pets,Non-smoking,
+338,316885,Lakeview,Saskatoon,235 Stillwater Drive,Apartment,Unfurnished,Long Term,Immediate,1055,Other,1 bd,1 ba,,Cats & dogs allowed,Non-smoking,Outdoor
+324,316886,Buena Vista,Saskatoon,424 Main Street,Apartment,Unfurnished,Long Term,Immediate,945,Other,2 bd,1 ba,695 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+390,316887,Arcola East-South Side,Regina,75 Michener Drive,Apartment,Unfurnished,Long Term,Immediate,1035,Other,2 bd,1 ba,831 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+387,317015,Lakewood,Regina,6703 Rochdale Blvd,Apartment,Unfurnished,Long Term,Immediate,1065,Other,1 bd,1 ba,583 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+201,318409,Summerside,Edmonton,2105 68 Street SW,Apartment,Unfurnished,Long Term,Immediate,1188,"$1,188 ",1 bd,1 ba,693 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+41,318412,Fairview,Vancouver,1755 West 14th Avenue,Apartment,Unfurnished,Long Term,Immediate,2350,"$2,350 ",1 bd,1 ba,618 ft2,Cats & dogs negotiable,Non-smoking,Underground
+714,321119,NL,St-John-S,251 Anspach St,Apartment,Unfurnished,Long Term,Immediate,800,$800 ,studio,1 ba,306 ft2,Cats & dogs negotiable,Non-smoking,Street
+712,321121,NL,St-John-S,50 Keane Place,Apartment,Unfurnished,Long Term,Immediate,875,$875 ,1 bd,1 ba,,Cats negotiable,Non-smoking,Outdoor
+720,321122,NL,St-John-S,27 Pasadena Crescent,Apartment,Unfurnished,Long Term,Immediate,890,$890 ,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+708,321123,NL,St-John-S,"6, 7, & 15 Charter Court, 819 - 821 Veteran's Road",Apartment,Unfurnished,Long Term,Immediate,1035,"$1,035 ",3 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+718,321124,NL,St-John-S,66 St. Clare Avenue,Apartment,Unfurnished,Long Term,Immediate,850,$850 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+717,321125,NL,St-John-S,2 St. George's Court,Apartment,Unfurnished,Long Term,Immediate,935,$935 ,1 bd,1 ba,475 ft2,Cats negotiable,Non-smoking,Outdoor
+716,321126,NL,St-John-S,12 Blackmarsh Rd,Apartment,Unfurnished,Long Term,Immediate,910,$910 ,studio,1 ba,435 ft2,Cats negotiable,Non-smoking,Outdoor
+715,321133,NL,St-John-S,80 The Boulevard,Apartment,Unfurnished,Long Term,Immediate,805,$805 ,studio,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+713,321136,NL,St-John-S,346 Empire Avenue,Apartment,Unfurnished,Long Term,Immediate,750,$750 ,studio,1 ba,,No pets,Non-smoking,Street
+711,321147,NL,St-John-S,"85 & 89 MacDonald Drive, 25 Wadland Crescent, 137 Ennis Avenue",Apartment,Unfurnished,Long Term,Immediate,1005,"$1,005 ",2 bd,1 ba,,No pets,Non-smoking,Outdoor
+190,323611,Cromdale,Edmonton,8515 106A Avenue NW,Apartment,Unfurnished,Long Term,Immediate,1017,Other,1 bd,1 ba,585 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+599,327422,QC,Montreal,939 Boulevard de la Cote Vertu,Apartment,Unfurnished,Long Term,Immediate,930,$930 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+719,327760,NL,St-John-S,35 Tiffany Lane,Apartment,Unfurnished,Long Term,Immediate,950,$950 ,1 bd,1 ba,510 ft2,No pets,Non-smoking,Outdoor
+379,328418,Downtown,Regina,2155 Rose Street,Apartment,Unfurnished,Long Term,Immediate,875,$99 ,1 bd,1 ba,675 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+376,328491,Cathedral,Regina,1520 Alexandra Street,Apartment,Unfurnished,Long Term,Immediate,974,$99 ,1 bd,1 ba,650 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+375,328494,Cathedral,Regina,1538 Alexandra Street,Apartment,Unfurnished,Long Term,Immediate,974,$99 ,1 bd,1 ba,650 ft2,Cats & dogs negotiable,Smoking allowed,Outdoor
+386,328638,Albert Park,Regina,3025 Parliament Avenue,Apartment,Unfurnished,Long Term,Immediate,994,$99 ,1 bd,1 ba,675 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+388,328688,Albert Park,Regina,4039 Retallack Street,Apartment,Unfurnished,Long Term,Immediate,994,$99 ,1 bd,1 ba,675 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+385,328690,Albert Park,Regina,4049 Retallack Street,Apartment,Unfurnished,Long Term,Immediate,849,$99 ,1 bd,1 ba,675 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+380,328694,Albert Park,Regina,4100 Retallack Street,Apartment,Unfurnished,Long Term,Immediate,814,$99 ,1 bd,1 ba,650 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+377,328695,Albert Park,Regina,4130 Rae Street,Apartment,Unfurnished,Long Term,Immediate,1154,$99 ,2 bd,1 ba,910 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+381,328711,Albert Park,Regina,4050 Rae Street,Apartment,Unfurnished,Long Term,Immediate,994,$99 ,1 bd,1 ba,675 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+667,330150,NS,Halifax,104 Albro Lake Road,Apartment,Unfurnished,Long Term,Immediate,779,$779 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+690,330189,NS,Halifax,28 Primrose Street,Apartment,Unfurnished,Long Term,No Vacancy,639,1 month,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+665,330231,NS,Halifax,3 Autumn Drive,Apartment,Unfurnished,Long Term,Immediate,769,$769 ,1 bd,1 ba,,No pets,Non-smoking,Street
+691,330232,NS,Halifax,30 Primrose Street,Apartment,Unfurnished,Long Term,No Vacancy,639,1 month,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+603,330553,QC,Montreal,1285 Decarie Street,Apartment,Unfurnished,Long Term,Immediate,1150,"$1,150 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+602,330554,QC,Montreal,395 Cote Vertu,Apartment,Unfurnished,Long Term,Immediate,780,$780 ,1 bd,1 ba,,Cats negotiable,Non-smoking,Outdoor
+600,330555,QC,Montreal,325 Cote Vertu,Apartment,Unfurnished,Long Term,Immediate,790,$790 ,1 bd,1 ba,,No pets,Non-smoking,Covered
+562,331100,QC,Ottawa,400 & 405 Boulevard des Grives,Apartment,Unfurnished,Long Term,Immediate,1270,"$1,270 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+560,331134,QC,Ottawa,10 Rue Radisson,Apartment,Unfurnished,Long Term,Immediate,969,$969 ,1 bd,1 ba,682 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+559,331135,QC,Ottawa,65& 71 Boulevard Fournier & 15 Rue Beriault,Apartment,Unfurnished,Long Term,Immediate,899,$899 ,1 bd,1 ba,555 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+293,331603,Lower Townsite,Fort-Mcmurray,9600 Manning Avenue,Apartment,Unfurnished,Long Term,Immediate,1050,"$1,050 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+298,331641,Timberlea,Fort-Mcmurray,104 Loutit Road,Townhouse,Unfurnished,Long Term,Immediate,1950,"$1,950 ",2 bd,2.5 ba,,Cats & dogs negotiable,Non-smoking,Single garage
+344,333579,Pleasant Hill,Saskatoon,125 Avenue O S,Apartment,Unfurnished,Long Term,Immediate,629,Ask,1 bd,1 ba,480 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+308,333580,Caswell Hill,Saskatoon,110 25th St W,Apartment,Unfurnished,Long Term,Immediate,874,Ask,1 bd,1 ba,543 ft2,Cats & dogs negotiable,Non-smoking,Covered
+333,333585,Massey Place,Saskatoon,865 Confederation Dr,Apartment,Unfurnished,Long Term,Immediate,744,Ask,1 bd,1 ba,660 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+349,333590,Confederation Park,Saskatoon,3730 Diefenbaker Dr,Apartment,Unfurnished,Long Term,Immediate,689,Ask,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+347,333593,Grosvenor Park,Saskatoon,1506 Main St,Apartment,Unfurnished,Long Term,Immediate,1009,Ask,1 bd,1 ba,453 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+337,333594,Pleasant Hill,Saskatoon,205 Avenue R S,Apartment,Unfurnished,Long Term,Immediate,504,Ask,1 bd,1 ba,600 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+350,333599,Pleasant Hill,Saskatoon,208 Avenue V South,Apartment,Unfurnished,Long Term,Immediate,749,Ask,1 bd,1 ba,501 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+340,333600,Mount Royal,Saskatoon,1814 22 Street W,Apartment,Unfurnished,Long Term,Immediate,924,Ask,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+339,333601,City Park,Saskatoon,427 4th Avenue N,Apartment,Unfurnished,Long Term,Immediate,949,Ask,1 bd,1 ba,475 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+346,333602,Nutana Park,Saskatoon,74 Dumont Crescent,Apartment,Unfurnished,Long Term,Immediate,1034,Ask,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+351,333606,Massey Place,Saskatoon,1020 Matheson Drive,Apartment,Unfurnished,Long Term,Immediate,849,Ask,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+341,333607,Hudson Bay Park,Saskatoon,1621 33 St W,Apartment,Unfurnished,Long Term,Immediate,954,Ask,2 bd,1 ba,750 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+50,333611,BC,Vancouver,935 Marine Drive,Apartment,Unfurnished,Long Term,Immediate,1850,$925 ,1 bd,1 ba,678 ft2,Cats & dogs negotiable,Non-smoking,Underground
+0,333673,Downtown,Victoria,819 Yates Street,Apartment,Unfurnished,Long Term,Immediate,1740,"$1,740 ",1 bd,1 ba,612 ft2,Cats & dogs negotiable,Smoke free building,Underground
+359,334118,North Central,Regina,1454 Rae St,Apartment,Unfurnished,Long Term,Immediate,824,Ask,1 bd,1 ba,535 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+357,334119,Core,Regina,1602 Victoria Ave,Apartment,Unfurnished,Long Term,Immediate,724,Ask,1 bd,1 ba,405 ft2,Cats & dogs negotiable,Non-smoking,Street
+360,334125,North Central,Regina,2901 5th Ave,Apartment,Unfurnished,Long Term,Immediate,799,Ask,1 bd,1 ba,469 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+187,334286,Elmwood Park,Edmonton,7315 Yellowhead Trail,Apartment,Unfurnished,Long Term,Immediate,744,Ask,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+358,334300,Coronation Park,Regina,445 & 453 Retallack Street,Apartment,Unfurnished,Long Term,Immediate,949,Ask,2 bd,1 ba,1000 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+572,335046,Parkwood Hills - Fisher glen,Ottawa,1343 Meadowlands Drive,House,Unfurnished,Long Term,Immediate,1865,"$1,865 ",3 bd,1.5 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+570,335047,Parkwood Hills - Fisher glen,Ottawa,1343 Meadowlands Drive,Townhouse,Unfurnished,Long Term,Immediate,1729,"$1,729 ",3 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+553,335051,Parkwood Hills - Fisher glen,Ottawa,30 Eleanor Drive,Apartment,Unfurnished,Long Term,Immediate,1609,"$1,609 ",2 bd,1.5 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+552,335061,Braemar Park - Bel Air Heights - Copeland Park,Ottawa,10 Deerfield Drive,Apartment,Unfurnished,Long Term,Immediate,1559,"$1,559 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+345,335737,Greystone Heights,Saskatoon,8/12/16/20 Bateman Cres,Apartment,Unfurnished,Long Term,Immediate,849,$350 ,1 bd,1 ba,459 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+473,335828,ON,Mississauga,2700 Aquitaine Avenue,Apartment,Unfurnished,Long Term,Immediate,2089,"$2,089 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Covered
+668,336566,NS,Halifax,995 Mclean Street,Apartment,Unfurnished,Long Term,1-Dec-21,1375,$688 ,2 bd,1 ba,,Cats negotiable,Non-smoking,Underground
+528,337270,ON,Toronto,10 Roanoke Road,Apartment,Unfurnished,Long Term,Immediate,1948,"$1,948 ",1 bd,1 ba,800 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+453,337475,ON,Mississauga,3620 Kaneff Crescent,Apartment,Unfurnished,Long Term,Immediate,2046,"$2,046 ",1 bd,1 ba,770 ft2,Cats & dogs negotiable,Non-smoking,Underground
+536,337475,ON,Toronto,3620 Kaneff Crescent,Apartment,Unfurnished,Long Term,Immediate,2046,"$2,046 ",1 bd,1 ba,770 ft2,Cats & dogs negotiable,Non-smoking,Underground
+533,338362,ON,Toronto,235 Bloor Street East,Apartment,Unfurnished,Long Term,Immediate,2058,"$2,058 ",1 bd,1 ba,670 ft2,Cats & dogs negotiable,Non-smoking,Covered
+105,338551,BC,Kelowna,3533 Carrington Rd,Condo,Unfurnished,Long Term,1-Dec-21,1650,$825 ,2 bd,2 ba,,Cats & dogs negotiable,Non-smoking,Underground
+147,338557,Altadore,Calgary,1543 34 Ave SW,Apartment,Unfurnished,Long Term,Immediate,1100,"$1,100 ",2 bd,1 ba,850 ft2,No pets,Non-smoking,Street
+343,339323,Stonebridge,Saskatoon,241 Willis Cres,Apartment,Unfurnished,Long Term,Immediate,1295,Other,1 bd,1 ba,607 ft2,Cats & dogs allowed,Non-smoking,Underground
+253,342524,Downtown,Red-Deer,4815 46 Street,Apartment,Unfurnished,Long Term,Immediate,874,Ask,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+237,342525,Downtown,Red-Deer,4821 46 Street,Apartment,Unfurnished,Long Term,Immediate,1024,Ask,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+43,343047,BC,Vancouver,4769 Hazel Street,Apartment,Unfurnished,Long Term,Immediate,1950,$975 ,1 bd,1 ba,650 ft2,Cats & dogs negotiable,Non-smoking,Covered
+531,343048,ON,Toronto,44 Jackes Avenue,Apartment,Unfurnished,Long Term,Immediate,1661,"$1,661 ",1 bd,1 ba,423 ft2,Cats negotiable,Non-smoking,Covered
+119,343049,Lakeview,Calgary,2528 66 Avenue SW,Apartment,Unfurnished,Long Term,Immediate,1235,"$1,235 ",1 bd,1 ba,613 ft2,Cats negotiable,Smoke free building,Outdoor
+151,343051,Bayview,Calgary,2105 90th Avenue SW,Apartment,Unfurnished,Long Term,Immediate,1333,"$1,333 ",1 bd,1 ba,790 ft2,Cats & dogs negotiable,Non-smoking,Covered
+47,343052,Yaletown,Vancouver,930 Seymour Street,Apartment,Unfurnished,Long Term,Immediate,2190,"$1,095 ",1 bd,1 ba,513 ft2,No pets,Non-smoking,Underground
+303,343857,Abasand,Fort-Mcmurray,15 Saunderson,Apartment,Unfurnished,Long Term,Immediate,835,$150 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+302,343858,Abasand,Fort-Mcmurray,16 Saunderson,Apartment,Unfurnished,Long Term,Immediate,885,$150 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+241,344430,West Park,Red-Deer,4250 54 Avenue,Townhouse,Unfurnished,Long Term,Immediate,1039,Ask,3 bd,1 ba,1260 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+239,344431,Kentwood West,Red-Deer,47 Kitson Close,Townhouse,Unfurnished,Long Term,Immediate,1249,Ask,3 bd,1 ba,1447 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+247,344432,Highland Green,Red-Deer,27 Halman Crescent,Townhouse,Unfurnished,Long Term,Immediate,1149,Ask,3 bd,1 ba,1260 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+249,344433,Kentwood East,Red-Deer,57 Kyte Crescent,Townhouse,Unfurnished,Long Term,Immediate,1199,Ask,3 bd,1 ba,1260 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+235,344434,Riverside Meadows,Red-Deer,5816 53 Avenue,Townhouse,Unfurnished,Long Term,Immediate,1054,Ask,3 bd,1 ba,1260 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+319,345280,City Park,Saskatoon,528 3rd Avenue North,Apartment,Unfurnished,Long Term,Immediate,900,$500 ,1 bd,1 ba,,Cats negotiable,Non-smoking,Outdoor
+252,347457,Waskasoo,Red-Deer,5516 47A Avenue,Apartment,Unfurnished,Long Term,Immediate,884,Ask,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+274,348334,Lower Townsite,Fort-Mcmurray,"309 - F-13 , Clearwater Crecent",Apartment,Furnished,Negotiable,Immediate,1100,$550 ,2 bd + den,1 ba,1050 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+244,351166,South Hill,Red-Deer,3920 50th Ave,Apartment,Unfurnished,Long Term,Immediate,789,Ask,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+117,351340,Beltline,Calgary,605 13 Ave SW,Apartment,Unfurnished,Long Term,Immediate,925,$925 ,1 bd,1 ba,484 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+86,352755,BC,Kelowna,724 Valley Road,Apartment,Unfurnished,Long Term,Immediate,1925,"$1,925 ",2 bd,2 ba,841 ft2,Cats & dogs negotiable,Non-smoking,Underground
+617,354062,QC,Montreal,360 Boulevard René-Lévesque Ouest,Apartment,Unfurnished,Long Term,Immediate,1725,"$1,725 ",1 bd,1 ba,631 ft2,Cats & dogs negotiable,Non-smoking,Underground
+609,354068,QC,Montreal,1380 Boulevard Rene-Lévesque Ouest,Apartment,Unfurnished,Long Term,Immediate,1495,"$1,495 ",1 bd,1 ba,503 ft2,Cats & dogs negotiable,Non-smoking,Underground
+616,354069,QC,Montreal,280 Boulevard René-Levésque Ouest,Apartment,Unfurnished,Long Term,Immediate,1600,"$1,600 ",1 bd,1 ba,556 ft2,Cats & dogs negotiable,Non-smoking,Underground
+243,354692,Downtown,Red-Deer,4822 54 Street,Apartment,Unfurnished,Long Term,Immediate,909,Ask,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+87,355823,BC,Kelowna,"3605, 3615, 3625 & 3635 Carrington Road",Apartment,Unfurnished,Long Term,Immediate,1525,"$1,525 ",1 bd,1 ba,593 ft2,Cats & dogs negotiable,Non-smoking,Underground
+191,358143,Killarney,Edmonton,8217 130 Ave,Townhouse,Unfurnished,Long Term,Immediate,1023,Ask,2 bd,1 ba,952 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+326,358604,City Park,Saskatoon,901 7th Avenue North,Apartment,Unfurnished,Long Term,Immediate,750,$500 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+384,359907,Downtown,Regina,1424 Victoria Ave,Apartment,Unfurnished,Long Term,Immediate,799,$99 ,1 bd,1 ba,520 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+382,359910,Rosemont - Mount Royal,Regina,909 Grey St,Apartment,Unfurnished,Long Term,Immediate,854,$99 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+44,360532,Downtown,Vancouver,1022 Nelson Street,Apartment,Unfurnished,Long Term,Immediate,2650,"$2,650 ",2 bd,1 ba,691 ft2,No pets,Non-smoking,Underground
+307,360567,Abasand,Fort-Mcmurray,201 Abasand Drive,Apartment,Unfurnished,Negotiable,Immediate,1400,1000,2 bd,1 ba,,No pets,Non-smoking,Underground
+265,362442,Abasand,Fort-Mcmurray,401 Athabasca Avenue,Townhouse,Unfurnished,Negotiable,Immediate,2245,"$2,245 ",3 bd,2.5 ba,1250 ft2,Cats & dogs negotiable,Non-smoking,
+669,364827,NS,Halifax,5633 Fenwick St,Apartment,Unfurnished,Long Term,1-Dec-21,2300,"$2,300 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+447,368637,Chevrier,Winnipeg,745 Ballantrae Drive,Apartment,Unfurnished,Long Term,Immediate,1258,Half Monthly Rent,1 bd,1 ba,651 ft2,Cats & dogs allowed,Non-smoking,Underground
+411,368870,Peguis,Winnipeg,11 El Tassi Drive,Apartment,Unfurnished,Long Term,Immediate,1260,"$1,260 ",1 bd,1 ba,564 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+527,369258,ON,Toronto,88 Scott St,Apartment,Unfurnished,Long Term,Immediate,2992,"$2,992 ",2 bd,2 ba,771 ft2,Cats & dogs negotiable,Non-smoking,Street
+423,369487,Alpine Place,Winnipeg,66 Morrow Ave,Apartment,Unfurnished,Long Term,Immediate,1025,512.5,1 bd,1 ba,563 ft2,Cats & dogs negotiable,Smoking allowed,Outdoor
+575,369950,Centretown,Ottawa,199 Slater Street,Apartment,Furnished,Long Term,Immediate,1650,"$1,650 ",1 bd,1 ba,,No pets,Non-smoking,Street
+288,370408,Lower Townsite,Fort-Mcmurray,132-21 MacDonald Drive,Condo,Furnished,Long Term,Immediate,1385,"$1,385 ",2 bd,1 ba,800 ft2,No pets,Non-smoking,
+259,370513,Eastview,Red-Deer,Eastview,Apartment,Unfurnished,Negotiable,Immediate,950,$950 ,3 bd + den,1 ba,,No pets,Non-smoking,Outdoor
+410,372740,Southdale,Winnipeg,30-50 De La Seigneurie,Apartment,Unfurnished,Long Term,Immediate,1225,"$1,225 ",1 bd,1 ba,,Cats & dogs negotiable,Smoke free building,Outdoor
+409,372746,Earl Grey,Winnipeg,825 Corydon Avenue,Apartment,Unfurnished,Long Term,Immediate,1028,"$1,028 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+407,372767,Fort Richmond,Winnipeg,88 Killarney Avenue,Apartment,Unfurnished,Long Term,Immediate,1040,"$1,040 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+424,372768,Old Tuxedo,Winnipeg,1918/1924/1945 Portage,Apartment,Unfurnished,Long Term,Immediate,1011,"$1,011 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+563,372799,Centretown,Ottawa,182 Lisgar Street,Apartment,Unfurnished,Long Term,Immediate,1200,"$1,200 ",studio,1 ba,,Cats & dogs negotiable,Smoking allowed,Street
+332,373405,Massey Place,Saskatoon,3110 33 Street W,Apartment,Unfurnished,Long Term,Immediate,844,Ask,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+422,373876,Inkster Gardens,Winnipeg,90 Waterford Green Common & 10 Highwater Path,Apartment,Unfurnished,Long Term,Immediate,1335,"$1,335 ",1 bd,1 ba,591 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+432,374208,North St. Boniface,Winnipeg,325 Provencher Boulevard,Duplex,Unfurnished,Long Term,Immediate,895,$895 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Street
+398,374864,Northeast Regina,Regina,47 Angus Rd,Apartment,Unfurnished,Long Term,Immediate,825,$825 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+109,375603,BC,Kelowna,"1310, 1311, 1312, 1314 Lawson Avenue",Apartment,Unfurnished,Long Term,1-Dec-21,1375,"$1,375 ",1 bd,1 ba,742 ft2,No pets,Non-smoking,Street
+444,375640,Kensington,Winnipeg,299 Queen Street,Apartment,Unfurnished,Long Term,Immediate,1211,"$1,211 ",2 bd,1 ba,771 ft2,Cats negotiable,Non-smoking,Outdoor
+415,375642,Worthington,Winnipeg,200 Beliveau Road,Apartment,Unfurnished,Long Term,Immediate,1011,"$1,011 ",1 bd,1 ba,600 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+52,376352,BC,Vancouver,900 Carnarvon Street,Apartment,Unfurnished,Long Term,Immediate,1949,$975 ,1 bd,1 ba,554 ft2,Cats & dogs negotiable,Non-smoking,Covered
+400,377297,Northeast Regina,Regina,31 Angus Rd,Apartment,Unfurnished,Long Term,Immediate,950,$950 ,2 bd,1 ba,,No pets,Non-smoking,Outdoor
+518,377690,ON,Toronto,123 Parkway Forest Dr.,Apartment,Unfurnished,Long Term,Immediate,2536.88,"$2,537 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+19,383747,BC,Victoria,301 Nursery Hill,Apartment,Unfurnished,Long Term,Call for Availability,1870,"$1,870 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+401,385498,Northeast Regina,Regina,307 Broad St N,Apartment,Unfurnished,Long Term,Immediate,925,$925 ,2 bd,1 ba,,Cats negotiable,Non-smoking,Outdoor
+329,387812,Fairhaven,Saskatoon,403 Pendygrasse Rd,Apartment,Unfurnished,Long Term,Immediate,899,Ask,1 bd,1 ba,627 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+2,390986,James Bay,Victoria,345 Quebec Street,Apartment,Unfurnished,Long Term,Immediate,2465,"$2,465 ",2 bd,1 ba,680 ft2,Cats & dogs negotiable,Non-smoking,Street
+578,392798,Ledbury - Heron Gate - Ridgemont,Ottawa,2816 Sandalwood Drive,Apartment,Unfurnished,Long Term,Immediate,1660,Other,1 bd,1 ba,666 ft2,Cats & dogs allowed,Non-smoking,Underground
+566,393081,Byward Market,Ottawa,50 Laurier Avenue East,Apartment,Unfurnished,Long Term,Immediate,1955,"$1,955 ",1 bd,1 ba,808 ft2,Cats & dogs negotiable,Non-smoking,Underground
+248,393256,Downtown,Red-Deer,4820 47 Ave,Apartment,Unfurnished,Negotiable,Immediate,889,600,2 bd,1 ba,,No pets,Non-smoking,Street
+74,395190,Kitsilano,Vancouver,503 - 2036 West 10th Ave.,Condo,Unfurnished,Long Term,Immediate,2300,"$1,000 ",1 bd + den,1 ba,670 ft2,No pets,Non-smoking,
+702,396671,PE,Charlottetown,10 By Way Avenue,Apartment,Unfurnished,Long Term,Call for Availability,1368,"$1,368 ",2 bd,1 ba,,No pets,Smoking negotiable,Street
+469,399775,ON,Mississauga,625 Evans Avenue,Apartment,Unfurnished,Long Term,Immediate,2140,"$2,140 ",2 bd,1 ba,,No pets,,
+468,399776,ON,Mississauga,148 Islington Avenue,Apartment,Unfurnished,Long Term,Immediate,1395,"$1,395 ",1 bd,1 ba,,No pets,,
+77,400486,West End,Vancouver,1188 Bidwell Street,Apartment,Unfurnished,Long Term,Immediate,2550,"$2,550 ",1 bd,1 ba,600 ft2,No cats,Non-smoking,Underground
+200,400491,Tipaskan,Edmonton,8103 29 Ave NW,Apartment,Unfurnished,Long Term,Immediate,795,$795 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+183,400492,Evansdale,Edmonton,14420 88A St NW,Apartment,Unfurnished,Long Term,Immediate,825,$825 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+182,400503,Killarney,Edmonton,13116 82 Street NW,Apartment,Unfurnished,Long Term,Immediate,795,$795 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+178,400507,Daly Grove,Edmonton,2303 38 Street NW,Apartment,Unfurnished,Long Term,Immediate,1025,"$1,025 ",2 bd,1 ba,,No pets,Non-smoking,Outdoor
+192,400508,Brander Gardens,Edmonton,5608 Riverbend Rd NW,Townhouse,Unfurnished,Long Term,Immediate,995,$995 ,2 bd,1 ba,,No pets,Non-smoking,Outdoor
+180,400512,Rideau Park,Edmonton,4240 106 street NW,Apartment,Unfurnished,Long Term,Immediate,850,$850 ,1 bd,1 ba,735 ft2,No pets,Non-smoking,Covered
+608,400530,QC,Montreal,6250 Lennox,Apartment,Unfurnished,Long Term,Immediate,1600,"$1,600 ",1 bd,1 ba,701 ft2,Cats & dogs negotiable,Non-smoking,Covered
+683,402092,NS,Halifax,1920 Brunswick Street,Apartment,Unfurnished,Long Term,Call for Availability,1435,"$1,435 ",1 bd,1 ba,,No pets,,
+687,402093,NS,Halifax,2065 Brunswick Street,Apartment,Unfurnished,Long Term,Call for Availability,1235,"$1,235 ",1 bd,1 ba,,No pets,,
+679,402094,NS,Halifax,2073-2077 Brunswick Street,Apartment,Unfurnished,Long Term,Call for Availability,1280,"$1,280 ",1 bd,1 ba,,No pets,,
+678,402096,NS,Halifax,5770 Spring Garden Road,Apartment,Unfurnished,Long Term,Call for Availability,1365,"$1,365 ",1 bd,1 ba,,No pets,,
+684,402097,NS,Halifax,"79,81 Radcliffe Drive & 80,85,90, 95 Chipstone Close",Apartment,Unfurnished,Long Term,Call for Availability,1175,"$1,175 ",1 bd,1 ba,,No pets,,
+674,402098,NS,Halifax,5885 Cunard Street,Apartment,Unfurnished,Long Term,Call for Availability,1280,"$1,280 ",1 bd,1 ba,,No pets,,
+196,402270,Queen Mary Park,Edmonton,10829 113 Street NW,Apartment,Unfurnished,Long Term,Immediate,802,Ask,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+496,403174,ON,Mississauga,329 The West Mall,Apartment,Unfurnished,Long Term,Immediate,1825,"$1,825 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+245,403217,Clearview Meadows,Red-Deer,1 - 3832 47 Street,Townhouse,Unfurnished,Long Term,Immediate,875,$875 ,2 bd,1 ba,,No pets,Non-smoking,Outdoor
+205,403321,Downtown,Edmonton,10823 Jasper Avenue NW,Apartment,Unfurnished,Long Term,Immediate,1399,"$1,399 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+204,403325,McCauley,Edmonton,8610 & 8620 Jasper Avenue,Apartment,Unfurnished,Long Term,Immediate,1249,"$1,249 ",2 bd,1 ba,,Cats & dogs negotiable,Smoking allowed,Underground
+206,403326,Oliver,Edmonton,10903 / 10904 103 / 102 Avenue,Apartment,Unfurnished,Long Term,Immediate,1299,"$1,299 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+132,403415,Brentwood,Calgary,50 Brentwood Common NW,Apartment,Unfurnished,Long Term,Immediate,1710,One Month's Rent,1 bd,1 ba,637 ft2,Cats & dogs negotiable,Non-smoking,
+140,403789,Capitol Hill,Calgary,Capitol Hill,Shared,Furnished,Negotiable,Immediate,470,$300 ,3 bd,1 ba,,No pets,Non-smoking,Street
+268,403872,Lower Townsite,Fort-Mcmurray,303 - 8528 Manning Avenue,Condo,Furnished,Negotiable,Immediate,1450,"$1,450 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+85,404714,Upper Capilano,Vancouver,1883 Fullerton Ave,Apartment,Unfurnished,Long Term,Immediate,2400,"$2,400 ",1 bd,1 ba,540 ft2,Cats & dogs negotiable,Non-smoking,Underground
+547,405381,ON,Toronto,111 Raglan Avenue,Apartment,Unfurnished,Long Term,Immediate,1950,"$1,950 ",1 bd,1 ba,723 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+545,405383,ON,Toronto,100 Rowena Drive,Apartment,Unfurnished,Long Term,Immediate,1695,"$1,695 ",1 bd,1 ba,850 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+546,405387,ON,Toronto,1440 Lawrence Avenue West,Apartment,Unfurnished,Long Term,Immediate,1650,"$1,650 ",1 bd,1 ba,709 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+620,406909,QC,Montreal,"8300, boul. du St-Laurent",Apartment,Unfurnished,Long Term,Immediate,1295,"$1,295 ",1 bd,1 ba,,No pets,,
+639,407088,QC,Montreal,2130 Rue Laforce,Apartment,Unfurnished,Long Term,Immediate,1350,"$1,350 ",1 bd,1 ba,520 ft2,No pets,Non-smoking,Underground
+672,410283,NS,Halifax,1112 Tower Road,Apartment,Unfurnished,Long Term,1-Feb-22,1300,"$1,300 ",1 bd,1 ba,,Cats negotiable,Non-smoking,Outdoor
+173,411788,Rosenthal,Edmonton,23107 77 Avenue NE,Apartment,Unfurnished,Long Term,Immediate,1125,"$1,125 ",2 bd,2 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+186,412229,Downtown,Edmonton,10621 100 Avenue NW,Apartment,Unfurnished,Long Term,Immediate,1350,"$1,350 ",1 bd,1 ba,600 ft2,Cats & dogs negotiable,Non-smoking,Underground
+112,412472,BC,Kelowna,3477 Lakeshore Road,Apartment,Furnished,Negotiable,15-Dec-21,2750,"$1,375 ",2 bd + den,2 ba,,Cats & dogs negotiable,Non-smoking,
+509,414038,ON,Toronto,11-25 Sherwood Ave.,Apartment,Unfurnished,Long Term,Immediate,1995,"$1,995 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Street
+577,414046,Ledbury - Heron Gate - Ridgemont,Ottawa,2870 Cedarwood Drive,Apartment,Unfurnished,Long Term,Immediate,1169,Other,1 bd,1 ba,637 ft2,Cats & dogs allowed,Non-smoking,Covered
+287,414056,Wood Buffalo Estates,Fort-Mcmurray,143 J w Mann Drive,House,Unfurnished,Negotiable,Immediate,2600,"$2,600 ",5 bd,3 ba,,No pets,Non-smoking,Double garage
+208,415129,Glenwood,Edmonton,9535 165 Street NW,Apartment,Unfurnished,Long Term,Immediate,1025,"$1,025 ",1 bd,1 ba,696 ft2,Cats & dogs negotiable,Non-smoking,
+10,415240,Hillside - Quadra,Victoria,2648 Graham,Apartment,Unfurnished,Long Term,Immediate,1940,$970 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+549,415559,Vanier South,Ottawa,230/240 Brittany Drive,Apartment,Unfurnished,Long Term,Immediate,1375,"$1,375 ",1 bd,1 ba,554 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+585,415560,Vanier South,Ottawa,335 McArthur Ave.,Apartment,Unfurnished,Long Term,Immediate,1455,"$1,455 ",2 bd,1 ba,690 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+568,415564,QC,Ottawa,101 Sacre Coeur Blvd.,Apartment,Unfurnished,Long Term,Immediate,1215,"$1,215 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+565,415565,QC,Ottawa,700 Boulevard Saint-Joseph,Apartment,Unfurnished,Long Term,Immediate,1160,"$1,160 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+188,415566,Woodcroft,Edmonton,11405 132 St NW,Apartment,Unfurnished,Long Term,Immediate,745,$745 ,1 bd,1 ba,800 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+579,415570,Elmvale - Eastway - Riverview - Riverview Park West,Ottawa,2035 Othello Avenue,Apartment,Unfurnished,Long Term,Immediate,1355,"$1,355 ",1 bd,1 ba,600 ft2,Cats & dogs negotiable,Non-smoking,Street
+666,415745,NS,Halifax,9 Brunello Boulevard,Apartment,Unfurnished,Long Term,Immediate,3766,"$3,766 ",2 bd + den,2 ba,1833 ft2,Cats & dogs negotiable,Non-smoking,Underground
+670,415746,NS,Halifax,81 Dellridge Lane,Apartment,Unfurnished,Long Term,1-Dec-21,2080,"$2,080 ",2 bd + den,2 ba,1400 ft2,Cats & dogs negotiable,Non-smoking,Underground
+482,415750,ON,Mississauga,5191 Dundas Street West,Apartment,Unfurnished,Long Term,Immediate,1825,"$1,825 ",1 bd,1 ba,550 ft2,Cats & dogs negotiable,Non-smoking,Underground
+472,415751,ON,Mississauga,7 Summerland Terrace,Apartment,Unfurnished,Long Term,Immediate,1900,"$1,900 ",1 bd,1 ba,590 ft2,Cats & dogs negotiable,Non-smoking,Street
+483,415752,ON,Mississauga,3 Summerland Terrace,Apartment,Unfurnished,Long Term,Immediate,1950,"$1,950 ",1 bd,1 ba,591 ft2,Cats & dogs negotiable,Non-smoking,Covered
+284,415816,Abasand,Fort-Mcmurray,44 - 100 Albion Drive,Townhouse,Unfurnished,Long Term,Immediate,2000,"$2,000 ",3 bd + den,1.5 ba,1700 ft2,Cats & dogs negotiable,Non-smoking,Single garage
+604,416658,QC,Montreal,2255 Rue Lambert-Closse,Apartment,Unfurnished,Long Term,Immediate,1999,"$1,999 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+285,417399,Timberlea,Fort-Mcmurray,188a Lynx Crescent,Main Floor,Unfurnished,Long Term,Immediate,1885,"$1,885 ",4 bd,2 ba,,Cats negotiable,Non-smoking,Outdoor
+442,417432,Colony,Winnipeg,290 Colony St,Apartment,Unfurnished,Long Term,Immediate,1250,"$1,250 ",1 bd,1 ba,788 ft2,No pets,Non-smoking,Outdoor
+416,417981,Pembina Strip,Winnipeg,1777 Pembina Hwy.,Apartment,Unfurnished,Long Term,Immediate,1079,"$1,079 ",1 bd,1 ba,700 ft2,No pets,Non-smoking,Outdoor
+446,417985,Kildonan Crossing,Winnipeg,1150/1152/1154 Munroe Ave.,Apartment,Unfurnished,Long Term,Immediate,1080,"$1,080 ",1 bd,1 ba,675 ft2,No pets,Non-smoking,Outdoor
+311,417990,City Park,Saskatoon,541 5th Ave. N,Apartment,Unfurnished,Long Term,Immediate,1050,"$1,050 ",1 bd,1 ba,622 ft2,No pets,Non-smoking,Underground
+144,419017,Connaught,Calgary,620 15th Ave SW,Condo,Furnished,Negotiable,Immediate,1375,"$1,375 ",1 bd,1 ba,700 ft2,No pets,Non-smoking,Outdoor
+498,419174,ON,Mississauga,810 Royal York Road,Apartment,Unfurnished,Long Term,Immediate,1725,"$1,725 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+584,421438,Whitehaven - Queensway Terrace,Ottawa,B-2161 Lambeth Walk,Apartment,Furnished,Long Term,Immediate,2300,"$2,300 ",3 bd,1 ba,,No pets,Non-smoking,Outdoor
+605,422437,QC,Montreal,6101 Monkland Ave,Apartment,Unfurnished,Long Term,Immediate,1610,"$1,610 ",1 bd,1 ba,700 ft2,Cats negotiable,Non-smoking,Outdoor
+495,423163,ON,Mississauga,3370 Havenwood Dr,Apartment,Unfurnished,Long Term,Immediate,1725,"$1,700 ",2 bd,1 ba,750 ft2,No pets,Non-smoking,Street
+439,423281,Sturgeon Creek,Winnipeg,3057 Ness Ave,Apartment,Unfurnished,Long Term,Immediate,1388,Half Monthly Rent,1 bd,1 ba,641 ft2,Cats & dogs allowed,Covered,
+501,424086,ON,Toronto,410 Dufferin Street,Apartment,Unfurnished,Long Term,Immediate,1945,"$1,945 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Street
+456,426848,ON,Mississauga,1177 Bloor Street East,Apartment,Unfurnished,Long Term,Immediate,2004,"$2,004 ",1 bd,1 ba,745 ft2,Cats & dogs negotiable,Non-smoking,Covered
+525,426848,ON,Toronto,1177 Bloor Street East,Apartment,Unfurnished,Long Term,Immediate,2004,"$2,004 ",1 bd,1 ba,745 ft2,Cats & dogs negotiable,Non-smoking,Covered
+373,427176,Transitional,Regina,2270 Cornwall Street,Apartment,Unfurnished,Long Term,Immediate,895,$895 ,1 bd,1 ba,,Cats negotiable,Non-smoking,Street
+500,428432,ON,Toronto,35 Greenfield Ave.,Apartment,Unfurnished,Long Term,Immediate,2069,"$2,069 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+6,428845,BC,Victoria,1085 Goldstream Avenue,Apartment,Unfurnished,Long Term,Immediate,1495,"$1,495 ",studio,1 ba,552 ft2,No pets,Non-smoking,Street
+348,429973,Lakeview,Saskatoon,431 & 811 Wollaston Cres,Apartment,Unfurnished,Long Term,Immediate,1064,Ask,2 bd,,,Cats & dogs negotiable,Non-smoking,Outdoor
+93,430178,BC,Kelowna,"2200, 2210, 2220 Majoros Road",Apartment,Unfurnished,Long Term,Immediate,1525,"$1,525 ",1 bd,1 ba,614 ft2,No pets,Non-smoking,Outdoor
+240,430509,South Hill,Red-Deer,3610 52 Avenue,Apartment,Unfurnished,Long Term,Immediate,850,600,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Covered
+459,430711,ON,Mississauga,120 Dundas St E,Apartment,Unfurnished,Long Term,Immediate,1748,"$1,748 ",1 bd,1 ba,656 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+458,430712,ON,Mississauga,100 Dundas Street East,Apartment,Unfurnished,Long Term,Immediate,1828,"$1,828 ",1 bd,1 ba,673 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+544,430712,ON,Toronto,100 Dundas Street East,Apartment,Unfurnished,Long Term,Immediate,1828,"$1,828 ",1 bd,1 ba,673 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+81,432696,Shaughnessy,Vancouver,BSMT - 1126 26 Ave West,Basement,Negotiable,12 months,Immediate,3000,"$1,500 ",2 bd,2 ba,1200 ft2,Cats & dogs negotiable,Non-smoking,
+306,432734,Lower Townsite,Fort-Mcmurray,105 - 100 Richard Street,Condo,Furnished,Negotiable,Immediate,1400,"$1,400 ",2 bd,2 ba,,No pets,Non-smoking,Underground
+662,433545,NS,Halifax,26 Carrington PL,Apartment,Unfurnished,Long Term,Immediate,1525,Other,2 bd,1 ba,1150 ft2,Cats & dogs allowed,Non-smoking,Outdoor
+709,433677,NL,St-John-S,3 Wadland Crescent,Apartment,Unfurnished,Long Term,Immediate,845,497.5,1 bd,1 ba,497 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+594,433700,South Keys - Greenboro West,Ottawa,3360 Paul Anka Drive,Apartment,Unfurnished,Long Term,Immediate,1399,"$1,399 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Covered
+543,433932,ON,Toronto,424 Yonge Street,Apartment,Unfurnished,Long Term,Immediate,1945,"$1,945 ",1 bd,1 ba,695 ft2,Cats & dogs negotiable,Non-smoking,Street
+175,433936,Downtown,Edmonton,11020 Jasper Ave.,Apartment,Unfurnished,Long Term,Immediate,946,750,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+174,433937,Oliver,Edmonton,10145 121st Street,Apartment,Unfurnished,Long Term,Immediate,1017,750,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+176,433938,Rossdale,Edmonton,8128 102 Street NW,Apartment,Unfurnished,Long Term,Immediate,1323,750,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+356,433955,Coronation Park,Regina,3525 Avonhurst Dr,Apartment,Unfurnished,Long Term,Immediate,799,$799 ,1 bd,1 ba,575 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+125,434051,University District,Calgary,4135 University Ave NW,Apartment,Unfurnished,Long Term,Immediate,1525,"$1,525 ",1 bd,1 ba,537 ft2,Cats & dogs negotiable,Non-smoking,Underground
+677,434247,NS,Halifax,451 Broad Street,Apartment,Unfurnished,Long Term,Call for Availability,1810,"$1,810 ",2 bd + den,1 ba,,No pets,,
+689,434248,NS,Halifax,24 Farringdon Way,Apartment,Unfurnished,Long Term,Call for Availability,1595,"$1,595 ",2 bd + den,1 ba,,No pets,,
+682,434249,NS,Halifax,2001 Brunswick Street,Apartment,Unfurnished,Long Term,Call for Availability,1250,"$1,250 ",1 bd,1 ba,,No pets,,
+675,434250,NS,Halifax,1991 Brunswick Street,Apartment,Unfurnished,Long Term,Call for Availability,1170,"$1,170 ",1 bd,1 ba,,No pets,,
+681,434251,NS,Halifax,1881 Brunswick Street,Apartment,Unfurnished,Long Term,Call for Availability,1395,"$1,395 ",1 bd,1 ba,,No pets,,
+367,434354,Transitional,Regina,2210 15th Avenue,Apartment,Unfurnished,Long Term,Immediate,650,$650 ,1 bd,1 ba,,Cats & dogs negotiable,Smoke free building,Street
+272,434389,Timberlea,Fort-Mcmurray,42 - 220 Swanson Crescent,Townhouse,Furnished,Long Term,Immediate,1885,"$1,885 ",3 bd,2.5 ba,,No pets,Non-smoking,Single garage
+221,434593,Waskasoo,Red-Deer,308 4721 55 Street,Apartment,Unfurnished,Long Term,Immediate,775,$795 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+238,434594,Downtown,Red-Deer,12 4750 55 Street,Apartment,Unfurnished,Long Term,Immediate,695,"$69,500 ",1 bd,1 ba,,No pets,Non-smoking,Outdoor
+224,434674,Waskasoo,Red-Deer,205 4313 55 Street,Townhouse,Unfurnished,Long Term,Immediate,795,$895 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+232,434675,West Park,Red-Deer,3918 56 Avenue Bsmt,Apartment,Unfurnished,Long Term,Immediate,725,$725 ,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+218,434677,Downtown,Red-Deer,2 4940 51 Street,Apartment,Unfurnished,Long Term,Immediate,650,$650 ,1 bd,1 ba,,No pets,Non-smoking,Street
+589,434991,ON,Ottawa,2480-2628 Hunter's Point Crescent,Apartment,Unfurnished,Long Term,Immediate,1885,"$1,885 ",3 bd,1 ba,,No pets,,
+588,434992,ON,Ottawa,141 Augusta Street,Apartment,Unfurnished,Long Term,Immediate,1350,"$1,350 ",1 bd,1 ba,,No pets,,
+145,435043,Rocky Ridge,Calgary,Rocky Ridge,House,Unfurnished,Long Term,Immediate,2350,"$2,350 ",4 bd,3.5 ba,2100 ft2,No pets,Non-smoking,
+95,435562,BC,Kelowna,,Apartment,Furnished,Negotiable,Immediate,3300,"$1,650 ",2 bd + den,2 ba,1440 ft2,Cats & dogs negotiable,Non-smoking,
+582,436973,Hintonburg - Mechanicsville,Ottawa,238 Carruthers,Apartment,Furnished,Long Term,Immediate,2500,"$2,700 ",2 bd,2 ba,,No pets,Non-smoking,Outdoor
+124,437507,Bridgeland,Calgary,918 McPherson Square NE,Apartment,Unfurnished,Long Term,Immediate,1449,"$1,449 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+101,437523,BC,Kelowna,1797 Keloka Drive,House,Furnished,Negotiable,Immediate,3950,"$1,975 ",4 bd,2 ba,1500 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+499,437682,ON,Mississauga,112 Alder Cres,Apartment,Unfurnished,Long Term,Immediate,1475,"$1,475 ",1 bd + den,1 ba,271 ft2,No pets,Non-smoking,Outdoor
+197,437811,Old Strathcona,Edmonton,8122 106 St NW,Apartment,Unfurnished,Long Term,Immediate,1435,"$1,435 ",1 bd,1 ba,663 ft2,Cats & dogs negotiable,Non-smoking,Underground
+227,438040,Johnstone Crossing,Red-Deer,100 Jordan Parkway,Apartment,Unfurnished,Long Term,Immediate,1075,"$1,075 ",2 bd,2 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+198,438264,Bannerman,Edmonton,13704 24th Street,Apartment,Unfurnished,Long Term,Immediate,875,$299 ,1 bd,1 ba,749 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+526,438365,ON,Toronto,50 Graydon Hall Drive,Apartment,Unfurnished,Long Term,Immediate,1650,"$1,650 ",1 bd,1 ba,638 ft2,Cats & dogs negotiable,Smoking allowed,Outdoor
+623,438582,QC,Montreal,"1415 -1800 rue Crevier, 1655/1675 rue Tasse. 1650 - 1670 rue Deguire, 1660",Apartment,Unfurnished,Long Term,Immediate,1050,"$1,050 ",3 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Street
+618,438583,QC,Montreal,1200-1600 rue Decarie & 1205-1595 rue Ouimet,Apartment,Unfurnished,Long Term,Immediate,765,$765 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Street
+327,439661,Pleasant Hill,Saskatoon,1310 20th St W,Apartment,Unfurnished,Long Term,Immediate,925,$99 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Covered
+220,439895,Downtown,Red-Deer,4811 55th Street,Apartment,Unfurnished,Long Term,Immediate,775,$775 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+625,440450,QC,Montreal,3411 Drummond,Apartment,Unfurnished,Long Term,Immediate,1595,"$1,595 ",1 bd,1 ba,800 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+542,440679,ON,Toronto,345 Merton Street,Apartment,Unfurnished,Long Term,Immediate,1799,"$1,799 ",1 bd,1 ba,800 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+42,441174,Central Lonsdale,Vancouver,154 18th Street East,Apartment,Unfurnished,Long Term,Immediate,2306,"$1,153 ",1 bd,1 ba,455 ft2,Cats & dogs negotiable,Non-smoking,Street
+481,441326,ON,Mississauga,2465 Hurontario Street,Apartment,Unfurnished,Long Term,Immediate,1918,"$1,918 ",1 bd,1 ba,732 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+471,441334,ON,Mississauga,571 Prince Edward Dr N,Apartment,Unfurnished,Long Term,Immediate,2200,"$2,200 ",1 bd,1 ba,687 ft2,No pets,Non-smoking,Underground
+460,441344,ON,Mississauga,2475 Hurontario Street,Apartment,Unfurnished,Long Term,Immediate,2497,"$2,497 ",2 bd,1 ba,822 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+103,441403,BC,Kelowna,3500 Sonoma Pines Drive,Apartment,Unfurnished,Long Term,Immediate,1848,Half Monthly Rent,2 bd,2 ba,883 ft2,Cats & dogs allowed,Non-smoking,Underground
+99,441404,BC,Kelowna,3495 Sonoma Pines Drive,Townhouse,Unfurnished,Long Term,Immediate,2898,$799 ,3 bd,2.5 ba,1267 ft2,Cats & dogs allowed,Non-smoking,Street
+535,442410,ON,Toronto,141 Davisville Avenue,Apartment,Unfurnished,Long Term,Immediate,1645,"$1,645 ",1 bd,1 ba,,No pets,,
+53,442576,Kitsilano,Vancouver,1925 Maple Street,Apartment,Unfurnished,Long Term,Immediate,2200,"$1,100 ",1 bd,1 ba,609 ft2,No pets,Non-smoking,Outdoor
+634,443397,QC,Montreal,4710 Boul Decarie,Apartment,Unfurnished,Long Term,Immediate,1325,"$1,325 ",3 bd,1 ba,968 ft2,No pets,Non-smoking,Street
+413,443717,Richmond West,Winnipeg,2965/2973 Pembina Hwy.,Apartment,Unfurnished,Long Term,Immediate,1040,"$1,040 ",1 bd,1 ba,559 ft2,No pets,Non-smoking,Outdoor
+418,443725,Heritage Park,Winnipeg,700 Setter Street,Apartment,Unfurnished,Long Term,Immediate,1188,"$1,188 ",1 bd,1 ba,725 ft2,No pets,Non-smoking,Underground
+8,444108,Burnside,Victoria,984 and 1000 McKenzie Avenue,Apartment,Unfurnished,Long Term,Immediate,1875,$938 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Street
+14,444167,Victoria West,Victoria,Victoria West,Condo,Unfurnished,Long Term,1-Jan-22,2300,"$2,300 ",2 bd,2 ba,892 ft2,No pets,Non-smoking,
+450,444217,Daniel McIntyre,Winnipeg,1 - 844 Home Street,Duplex,Unfurnished,Long Term,Immediate,1060,"$1,060 ",2 bd,1 ba,,No pets,Non-smoking,Covered
+394,444847,North Central,Regina,628 Wascana Street,House,Unfurnished,Negotiable,Immediate,965,$965 ,3 bd,1 ba,,Cats & dogs negotiable,Smoking negotiable,Outdoor
+179,446134,Strathcona,Edmonton,8155 105 St NW,Apartment,Unfurnished,Long Term,Immediate,1360,"$1,360 ",1 bd,1 ba,770 ft2,Cats & dogs negotiable,Non-smoking,Underground
+82,446339,BC,Vancouver,3370 Dewdney Trunk Road,Apartment,Unfurnished,Long Term,Immediate,1850,"$1,850 ",1 bd,1 ba,612 ft2,No pets,Smoke free building,Underground
+296,446376,Lower Townsite,Fort-Mcmurray,10122 Franklin Avenue,Apartment,Unfurnished,Negotiable,Immediate,1000,"$1,000 ",1 bd,1 ba,640 ft2,Cats & dogs negotiable,Smoking negotiable,
+94,447183,BC,Kelowna,1232 Ellis Street,Condo,Furnished,Short Term,Immediate,3300,"$1,650 ",2 bd + den,2 ba,1100 ft2,Cats & dogs negotiable,Non-smoking,
+181,447690,Windermere,Edmonton,1112 Windermere Way SW,Apartment,Unfurnished,Long Term,Immediate,1300,"$1,300 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+615,447703,QC,Montreal,105 Milton Street,Apartment,Unfurnished,Long Term,Immediate,1093,"$1,093 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,
+283,447749,Thickwood,Fort-Mcmurray,128 Williscroft Place,House,Furnished,Long Term,Immediate,2060,"$2,060 ",3 bd,2 ba,,Cats & dogs negotiable,Non-smoking,Single garage
+189,448914,Rosenthal,Edmonton,1159 Rosenthal Blvd,Apartment,Unfurnished,Long Term,Immediate,1198,$499 ,1 bd,1 ba,652 ft2,Cats & dogs allowed,,
+622,449097,QC,Montreal,3405 Boul. Le Carrefour,Apartment,Unfurnished,Long Term,Immediate,1257,"$1,257 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+405,449132,Bridgwater Centre,Winnipeg,15 Cooper's town Road,Apartment,Unfurnished,Long Term,Immediate,1698,"$1,698 ",2 bd,2 ba,1036 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+330,449735,Blairmore S.C.,Saskatoon,"122, 126, 130 Shillington Crescent",Apartment,Unfurnished,Long Term,Immediate,1175,"$1,175 ",1 bd,1 ba,700 - 718,Cats & dogs negotiable,Non-smoking,Outdoor
+177,449755,Casselman,Edmonton,5425 144b Ave NW,Apartment,Unfurnished,Long Term,Immediate,1099,"$1,099 ",2 bd,1.5 ba,,Cats negotiable,Non-smoking,Outdoor
+309,450096,Rosewood,Saskatoon,2625 Meadows Parkway,Apartment,Unfurnished,Long Term,Immediate,1298,$499 ,1 bd,1 ba,652 ft2,Cats & dogs allowed,Non-smoking,
+257,450161,South Hill,Red-Deer,3110-47 Avenue,Townhouse,Unfurnished,Long Term,Immediate,1170,$395 ,3 bd,1.5 ba,1102 ft2,No pets,Non-smoking,
+76,450223,West End,Vancouver,1885 Barclay Street,Apartment,Unfurnished,Long Term,Immediate,2050,"$1,025 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Covered
+51,450225,West End,Vancouver,1461 Harwood Street,Apartment,Unfurnished,Long Term,Immediate,3050,"$1,525 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+404,450289,Lord Roberts,Winnipeg,15 Berwick Court,Apartment,Unfurnished,Long Term,Immediate,1438,"$1,438 ",1 bd,1 ba,610 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+199,450561,Rideau Park,Edmonton,4007 108 Street Northwest,Apartment,Unfurnished,Long Term,Immediate,1025,"$1,025 ",1 bd + den,1 ba,800 ft2,Cats & dogs negotiable,Non-smoking,
+454,450652,ON,Mississauga,3122 Hurontario Street,Apartment,Unfurnished,Long Term,Immediate,1725,"$1,725 ",1 bd,1 ba,628 ft2,Cats & dogs negotiable,Non-smoking,Underground
+540,450652,ON,Toronto,3122 Hurontario Street,Apartment,Unfurnished,Long Term,Immediate,1725,"$1,725 ",1 bd,1 ba,628 ft2,Cats & dogs negotiable,Non-smoking,Underground
+135,451097,Hillhurst,Calgary,Hillhurst,Basement,Unfurnished,Short Term,Immediate,965,$965 ,2 bd,1 ba,800 ft2,Cats negotiable,Non-smoking,Outdoor
+79,451118,West End,Vancouver,1168 Pendrell Street,Apartment,Unfurnished,Long Term,Immediate,2175,1087.5,1 bd,1 ba,503 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+502,451755,ON,Toronto,740 Dupont St.,Apartment,Unfurnished,Long Term,Immediate,1960,"$1,960 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+378,451900,The Greens on Gardiner,Regina,3005 Trombley St,Apartment,Unfurnished,Long Term,Immediate,1487,"$1,487 ",3 bd,2 ba,1074 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+555,453509,Hintonburg - Mechanicsville,Ottawa,883 Somerset Street West,Apartment,Unfurnished,Long Term,Immediate,1450,"$1,450 ",1 bd,1 ba,750 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+449,453643,Shaughnessy Park,Winnipeg,2 - 1335 Manitoba Avenue,Duplex,Unfurnished,Long Term,Immediate,795,$795 ,2 bd,1 ba,,No pets,Non-smoking,
+598,454507,QC,Montreal,439 Avenue Thérèse Lavoie-Roux,Apartment,Unfurnished,Long Term,Immediate,1520,"$1,520 ",1 bd,1 ba,568 - 581,Cats & dogs negotiable,Non-smoking,Underground
+122,454527,South Calgary,Calgary,2232 33 Avenue Southwest,Loft,Unfurnished,Negotiable,Immediate,1499,$500 ,1 bd,1 ba,525 ft2,Cats & dogs negotiable,Non-smoking,
+437,454546,West Broadway,Winnipeg,217 Sherbrook Street,Apartment,Unfurnished,Long Term,Immediate,995,$995 ,2 bd,1 ba,,Cats & dogs negotiable,Smoke free building,
+486,454562,ON,Mississauga,28 Elizabeth St. N.,Apartment,Unfurnished,Long Term,Immediate,1650,"$1,650 ",1 bd,1 ba,,No pets,Non-smoking,Underground
+484,454564,ON,Mississauga,99 Agnes St.,Apartment,Unfurnished,Long Term,Immediate,1700,"$1,700 ",1 bd,1 ba,,No pets,Non-smoking,Outdoor
+492,454568,ON,Mississauga,1745 Bloor St.,Apartment,Unfurnished,Long Term,Immediate,1550,"$1,550 ",1 bd,1 ba,,No pets,Non-smoking,Outdoor
+491,454569,ON,Mississauga,121 Agnes St.,Apartment,Unfurnished,Long Term,Immediate,1625,"$1,625 ",1 bd,1 ba,,No pets,Non-smoking,Underground
+490,454574,ON,Mississauga,31 Park Blvd.,Apartment,Unfurnished,Long Term,Immediate,1625,"$1,625 ",1 bd,1 ba,,No pets,Non-smoking,Outdoor
+489,454578,ON,Mississauga,230 Lake Promenade,Apartment,Unfurnished,Long Term,Immediate,1625,"$1,625 ",1 bd,1 ba,,No pets,Non-smoking,Outdoor
+488,454579,ON,Mississauga,21 Park Blvd.,Apartment,Unfurnished,Long Term,Immediate,1475,"$1,475 ",1 bd,1 ba,,No pets,Non-smoking,Outdoor
+487,454581,ON,Mississauga,1785 Bloor St.,Apartment,Unfurnished,Long Term,Immediate,1575,"$1,575 ",1 bd,1 ba,,No pets,Non-smoking,Outdoor
+485,454585,ON,Mississauga,240 Lake Promenade,Apartment,Unfurnished,Long Term,Immediate,1475,"$1,475 ",1 bd,1 ba,,No pets,Non-smoking,Outdoor
+493,454588,ON,Mississauga,220 Lake Promenade,Apartment,Unfurnished,Long Term,Immediate,1475,"$1,475 ",1 bd,1 ba,,No pets,Non-smoking,Outdoor
+612,454715,QC,Montreal,1430 rue City Councillors,Apartment,Unfurnished,Long Term,Immediate,715,$715 ,studio,1 ba,,No pets,Non-smoking,Outdoor
+195,455310,Overlanders,Edmonton,1102 Hermitage Road,Apartment,Unfurnished,Long Term,Immediate,850,Ask,1 bd,1 ba,645 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+194,455311,Overlanders,Edmonton,35 Homestead Crescent,Apartment,Unfurnished,Long Term,Immediate,925,Ask,1 bd,1 ba,744 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+193,455312,Overlanders,Edmonton,"350, 354 & 358 Hooper Crescent",Apartment,Unfurnished,Long Term,Immediate,899,Ask,1 bd,1 ba,744 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+98,455655,BC,Kelowna,1402 - 1232 Ellis Street,Apartment,Furnished,Short Term,Immediate,7950,"$7,950 ",3 bd,3 ba,1990 ft2,Cats & dogs negotiable,Non-smoking,
+223,455943,South Hill,Red-Deer,205 5011 39 Street,Apartment,Unfurnished,Long Term,Immediate,795,$500 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+606,456857,QC,Montreal,3252 Rue Sainte-Lucie,Duplex,Unfurnished,Long Term,Immediate,1315,"$1,325 ",3 bd,1 ba,,Cats & dogs negotiable,Non-smoking,
+595,458063,Britannia,Ottawa,2880 Carling Avenue,Apartment,Unfurnished,Long Term,Immediate,1375,"$1,375 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,
+207,458065,McDougall,Edmonton,10746 102 Street Northwest,Apartment,Unfurnished,Long Term,Immediate,799,$799 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+619,458069,QC,Montreal,5915 Decarie,Apartment,Unfurnished,Long Term,Immediate,1450,"$1,450 ",2 bd,1 ba,,No pets,Non-smoking,
+159,458503,Eau Claire,Calgary,108 Waterfront Court SW,Apartment,Unfurnished,Long Term,Immediate,1500,"$1,500 ",1 bd,1 ba,600 ft2,No pets,Non-smoking,
+150,458521,Lower Mount Royal,Calgary,406 - 1313 Cameron Ave SW,Condo,Furnished,Negotiable,Immediate,1695,"$1,695 ",1 bd + den,2 ba,1070 ft2,No pets,Non-smoking,Underground
+631,458766,QC,Montreal,1620 avenue Victoria,Apartment,Unfurnished,Long Term,Immediate,965,$965 ,1 bd,1 ba,,No pets,,
+638,458775,QC,Montreal,5460 avenue Sunnybrooke,Apartment,Unfurnished,Long Term,Immediate,1095,"$1,095 ",1 bd,1 ba,,No pets,,
+647,458985,NS,Halifax,2074 Robie Street,Apartment,Unfurnished,Long Term,Immediate,1480,"$1,480 ",1 bd,1 ba,,No pets,,
+656,458986,NS,Halifax,2334 Longard Plaza,Apartment,Unfurnished,Long Term,Immediate,1165,"$1,165 ",1 bd,1 ba,,No pets,,
+157,458992,Lynnwood,Calgary,135 Lynnview Road SE,Apartment,Unfurnished,Long Term,Immediate,975,$975 ,1 bd,1 ba,,No pets,,
+40,458999,BC,Vancouver,10951 Mortfield Road,Apartment,Unfurnished,Long Term,Immediate,1775,"$1,775 ",2 bd,1 ba,,No pets,,
+1,459003,Burnside,Victoria,243 Gorge Road East,Apartment,Unfurnished,Long Term,Immediate,1465,"$1,465 ",1 bd,1 ba,,No pets,,
+71,459004,BC,Vancouver,1303 Eighth Avenue,Apartment,Unfurnished,Long Term,Immediate,1485,"$1,485 ",1 bd,1 ba,,No pets,,
+48,459005,North Vancouver,Vancouver,308 Forbes Avenue,Apartment,Unfurnished,Long Term,Immediate,1690,"$1,690 ",1 bd,1 ba,,No pets,,
+66,459006,BC,Vancouver,315 Agnes Street,Apartment,Unfurnished,Long Term,Immediate,1475,"$1,475 ",1 bd,1 ba,,No pets,,
+67,459007,BC,Vancouver,329 Sherbrooke Street,Apartment,Unfurnished,Long Term,Immediate,1455,"$1,455 ",1 bd,1 ba,,No pets,,
+68,459012,BC,Vancouver,11675 Seventh Avenue,Apartment,Unfurnished,Long Term,Immediate,1695,"$1,695 ",1 bd,1 ba,,No pets,,
+64,459013,BC,Vancouver,810 St. Andrews Street,Apartment,Unfurnished,Long Term,Immediate,1505,"$1,505 ",1 bd,1 ba,,No pets,,
+61,459015,BC,Vancouver,8350 11th Avenue,Apartment,Unfurnished,Long Term,Immediate,1700,"$1,700 ",2 bd,1 ba,,No pets,,
+58,459016,BC,Vancouver,908 Sixth Avenue,Apartment,Unfurnished,Long Term,Immediate,1475,"$1,475 ",1 bd,1 ba,,No pets,,
+69,459017,BC,Vancouver,910 St. Andrews Street,Apartment,Unfurnished,Long Term,Immediate,1785,"$1,785 ",2 bd,1 ba,,No pets,,
+56,459018,Upper Capilano,Vancouver,1989 Marine Drive,Apartment,Unfurnished,Long Term,Immediate,1750,"$1,750 ",1 bd,1 ba,,No pets,,
+72,459019,West End,Vancouver,990 Broughton Street,Apartment,Unfurnished,Long Term,Immediate,2520,"$2,520 ",2 bd,1 ba,,No pets,,
+655,459023,NS,Halifax,1030 South Park Street,Apartment,Unfurnished,Long Term,Immediate,1270,"$1,270 ",1 bd,1 ba,,No pets,,
+654,459024,NS,Halifax,1333 South Park Street,Apartment,Unfurnished,Long Term,Immediate,1445,"$1,445 ",1 bd,1 ba,,No pets,,
+649,459025,NS,Halifax,40 Charlotte Lane,Apartment,Unfurnished,Long Term,Immediate,1280,"$1,280 ",1 bd,1 ba,,No pets,,
+693,459027,PE,Charlottetown,20-22 Garfield Street,Apartment,Unfurnished,Long Term,Immediate,845,$845 ,1 bd,1 ba,,No pets,,
+393,459039,Albert Park,Regina,4902 Queen Street,Apartment,Unfurnished,Long Term,Immediate,940,$940 ,1 bd,1 ba,,No pets,,
+391,459040,Albert Park,Regina,4730-4760 Pasqua Street,Apartment,Unfurnished,Long Term,Immediate,940,$940 ,1 bd,1 ba,,No pets,,
+524,459041,ON,Toronto,"2,6,7, 8 Park Vista",Apartment,Unfurnished,Long Term,Immediate,1565,"$1,565 ",1 bd,1 ba,,No pets,,
+651,459042,NS,Halifax,76 Armenia Drive,Apartment,Unfurnished,Long Term,Immediate,1900,"$1,900 ",studio,1 ba,,No pets,,
+633,459045,QC,Montreal,65 rue Sherbrooke Est,Apartment,Unfurnished,Long Term,Immediate,1125,"$1,125 ",1 bd,1 ba,,No pets,,
+626,459046,QC,Montreal,135 rue Sherbrooke Est,Apartment,Unfurnished,Long Term,Immediate,1210,"$1,210 ",1 bd,1 ba,,No pets,,
+637,459047,QC,Montreal,150 rue st Norbert,Apartment,Unfurnished,Long Term,Immediate,1775,"$1,775 ",2 bd,1 ba,,No pets,,
+635,459051,QC,Montreal,315 boul. Rene Levesque Est,Apartment,Unfurnished,Long Term,Immediate,1105,"$1,105 ",1 bd,1 ba,,No pets,,
+628,459054,QC,Montreal,1350 rue Du Fort,Apartment,Unfurnished,Long Term,Immediate,985,$985 ,1 bd,1 ba,,No pets,,
+640,459059,QC,Montreal,6465 rue Sherbrooke Est,Apartment,Unfurnished,Long Term,Immediate,990,$990 ,1 bd,1 ba,,No pets,,
+630,459063,QC,Montreal,6675 rue Darlington,Apartment,Unfurnished,Long Term,Immediate,705,$705 ,1 bd,1 ba,,No pets,,
+632,459066,QC,Montreal,321 avenue Lanthier,Apartment,Unfurnished,Long Term,Immediate,1625,"$1,625 ",2 bd,1 ba,,No pets,,
+614,459069,QC,Montreal,"5199 rue Sherbrooke Est, bureau 3361",Apartment,Unfurnished,Long Term,Immediate,1180,"$1,180 ",1 bd,1 ba,,No pets,,
+39,459071,Killarney,Vancouver,3618-3688 Sawmill Crescent,Apartment,Unfurnished,Long Term,Immediate,2240,"$2,240 ",2 bd,1 ba,,No pets,,
+152,459075,Beltline,Calgary,1017 11 Ave SW,Apartment,Unfurnished,Long Term,Immediate,1295,"$1,295 ",2 bd,1 ba,,No pets,,
+692,459076,PE,Charlottetown,10 By Way Avenue,Apartment,Unfurnished,Long Term,Immediate,1335,"$1,335 ",2 bd,1 ba,,No pets,,
+644,459078,NS,Halifax,5770 Spring Garden Road,Apartment,Unfurnished,Long Term,Immediate,1495,"$1,495 ",1 bd,1 ba,,No pets,,
+648,459080,NS,Halifax,5885 Cunard Street,Apartment,Unfurnished,Long Term,Immediate,1475,"$1,475 ",1 bd,1 ba,,No pets,,
+646,459081,NS,Halifax,80 Chipstone Close - 81 Radcliffe Drive,Apartment,Unfurnished,Long Term,Immediate,1390,"$1,390 ",1 bd,1 ba,,No pets,,
+38,459088,BC,Vancouver,101 Royal Avenue,Apartment,Unfurnished,Long Term,Immediate,1450,"$1,450 ",1 bd,1 ba,,No pets,,
+645,459090,NS,Halifax,2001 Brunswick Street,Apartment,Unfurnished,Long Term,Immediate,1500,"$1,500 ",1 bd,1 ba,,No pets,,
+653,459091,NS,Halifax,451 Broad Street,Apartment,Unfurnished,Long Term,Immediate,1945,"$1,945 ",studio,1 ba,,No pets,,
+65,459182,BC,Vancouver,544 Sydney Avenue,Apartment,Unfurnished,Long Term,Immediate,1545,"$1,545 ",1 bd,1 ba,,No pets,,
+4,459183,James Bay,Victoria,425 Simcoe Street,Apartment,Unfurnished,Long Term,Immediate,1720,"$1,720 ",1 bd,1 ba,,No pets,,
+650,459184,NS,Halifax,1991 Brunswick Street,Apartment,Unfurnished,Long Term,Immediate,1355,"$1,355 ",1 bd,1 ba,,No pets,,
+60,459542,BC,Vancouver,3836 Carrigan Court,Apartment,Unfurnished,Long Term,Immediate,1545,"$1,545 ",1 bd,1 ba,,No pets,,
+586,459546,Emerald Woods - Sawmill Creek,Ottawa,2591-2601 Bridle Path Drive,Apartment,Unfurnished,Long Term,Immediate,1945,"$1,945 ",3 bd,1 ba,,No pets,,
+70,459714,BC,Vancouver,10463 150th Street,Apartment,Unfurnished,Long Term,Immediate,1170,"$1,170 ",studio,1 ba,,No pets,,
+289,459858,Timberlea,Fort-Mcmurray,177 Juniper Street,House,Negotiable,Negotiable,Immediate,2785,"$2,785 ",5 bd,3.5 ba,2400 ft2,Cats & dogs negotiable,Non-smoking,
+652,460006,NS,Halifax,2065 Brunswick Street,Apartment,Unfurnished,Long Term,Immediate,1290,"$1,290 ",1 bd,1 ba,,No pets,,
+250,460013,Grandview,Red-Deer,4703 40 Avenue,Apartment,Unfurnished,Negotiable,Immediate,995,$995 ,2 bd,1 ba,775 ft2,Cats negotiable,Smoking negotiable,Outdoor
+234,460391,Highland Green,Red-Deer,"62, 5935 63 Street",Townhouse,Unfurnished,Long Term,Immediate,1025,"$1,025 ",3 bd,1.5 ba,,No pets,Non-smoking,Outdoor
+362,460677,Hillsdale,Regina,22-41 Munroe Pl.,Apartment,Unfurnished,Long Term,Immediate,910,$299 ,1 bd,1 ba,670 ft2,Cats & dogs negotiable,Non-smoking,
+361,460679,Hillsdale,Regina,41 Munroe Place,Townhouse,Unfurnished,Long Term,Immediate,1216,$299 ,2 bd,1 ba,850 ft2,Cats & dogs negotiable,Non-smoking,
+246,460734,Downtown,Red-Deer,4712 47A Avenue,Apartment,Unfurnished,Long Term,Immediate,1465,"$1,465 ",2 bd,2 ba,,Cats & dogs negotiable,Non-smoking,
+91,460860,BC,Kelowna,2206 Sundance Court,House,Unfurnished,Long Term,Immediate,3500,"$1,750 ",4 bd,3 ba,"2, 454",Cats & dogs negotiable,Non-smoking,Double garage
+236,460898,Riverside Meadows,Red-Deer,5837 59 St,Duplex,Unfurnished,Long Term,Immediate,995,$995 ,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+102,461266,BC,Kelowna,,House,Furnished,Short Term,Immediate,3200,"$5,000 ",2 bd,2 ba,,No cats,Non-smoking,Double garage
+62,461292,BC,Vancouver,7425 18th Avenue,Apartment,Unfurnished,Long Term,Immediate,1470,"$1,470 ",1 bd,1 ba,,No pets,,
+334,461561,Evergreen,Saskatoon,315 Kloppenburg Link,Townhouse,Unfurnished,Long Term,Immediate,1800,"$1,800 ",3 bd,2.5 ba,1400 ft2,No pets,,
+574,461648,Cummings,Ottawa,1090 Kristin Way,Apartment,Unfurnished,Long Term,Immediate,1195,"$1,195 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+54,462015,BC,Vancouver,525 Tenth Street,Apartment,Unfurnished,Long Term,Immediate,1435,"$1,435 ",1 bd,1 ba,,No pets,,
+269,462110,Lower Townsite,Fort-Mcmurray,217 - 100 Richard Street,Condo,Unfurnished,Long Term,Immediate,1500,"$1,500 ",2 bd,2 ba,900 ft2,No pets,Non-smoking,
+406,462225,Rivergrove,Winnipeg,2766 Main St.,Apartment,Unfurnished,Long Term,1-Dec-21,1128,"$1,128 ",1 bd,1 ba,699 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+402,462420,Transitional,Regina,2022 Lorne Street,Apartment,Unfurnished,Long Term,Immediate,900,$900 ,1 bd,1 ba,454 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+89,462852,BC,Kelowna,715 Lone Pine Drive,House,Unfurnished,Long Term,Immediate,4200,"$2,100 ",5 bd,4 ba,4500 ft2,Cats & dogs negotiable,Non-smoking,Double garage
+11,462978,Harris Green,Victoria,1147 Quadra St.,Apartment,Unfurnished,Long Term,Immediate,950,$475 ,studio,1 ba,,No pets,Non-smoking,Underground
+3,463102,Fairfield,Victoria,976 Humboldt Street,Apartment,Unfurnished,Long Term,Immediate,1275,"$1,275 ",studio,1 ba,,No pets,,
+262,463118,Abasand,Fort-Mcmurray,1 Haineault St.,Apartment,Unfurnished,Long Term,Immediate,978,$299 ,1 bd,1 ba,608 ft2,Cats & dogs negotiable,Non-smoking,
+45,463195,West End,Vancouver,1644 NELSON ST,Apartment,Unfurnished,Long Term,Immediate,1590,$795 ,1 bd,1 ba,,No pets,Non-smoking,Underground
+148,463469,Royal Oak,Calgary,Royal Oak,House,Unfurnished,Long Term,Immediate,2395,"$2,395 ",3 bd,3 ba,2100 ft2,Cats & dogs negotiable,Non-smoking,Double garage
+611,463799,QC,Montreal,100 400 Place Juge Desnoyers,Apartment,Unfurnished,Long Term,Immediate,1299,"$1,299 ",1 bd,1 ba,515 ft2,Cats negotiable,Non-smoking,Underground
+233,463897,Mountview,Red-Deer,"1101, 3907 39 Street (Vista Village)",Townhouse,Unfurnished,Long Term,Immediate,1075,"$1,075 ",2 bd,1 ba,,No pets,Non-smoking,
+280,464040,Abasand,Fort-Mcmurray,201 Abasand Drive,Apartment,Unfurnished,Negotiable,Immediate,1200,"$1,200 ",1 bd,1 ba,,No pets,Non-smoking,Street
+305,464078,Eagle Ridge,Fort-Mcmurray,118 - 136D Sandpiper Road,Condo,Furnished,Negotiable,Immediate,1750,"$1,750 ",1 bd,1 ba,864 ft2,No cats,Non-smoking,
+374,464132,Cathedral,Regina,3104 Victoria Ave,Apartment,Unfurnished,Long Term,Immediate,750,$750 ,1 bd,1 ba,750 ft2,No pets,Non-smoking,
+601,464315,QC,Montreal,8619 Champagneur,Apartment,Unfurnished,Long Term,Immediate,1050,First rent,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,
+389,464570,Transitional,Regina,2055 Rose St,Apartment,Unfurnished,Long Term,Immediate,185,$185 ,studio,,100 ft2,No pets,Underground,
+627,464825,QC,Montreal,2338 Quesnel,Apartment,Unfurnished,Long Term,Immediate,1590,"$1,590 ",2 bd,1 ba,,No pets,Non-smoking,
+621,464826,QC,Montreal,1830 Frontenac,Apartment,Unfurnished,Long Term,Immediate,980,$980 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,
+301,464941,Abasand,Fort-Mcmurray,100 Acacia Drive,Townhouse,Unfurnished,Long Term,Immediate,1900,"$1,900 ",3 bd,1.5 ba,1050 ft2,Cats & dogs negotiable,Non-smoking,
+59,465153,Kitsilano,Vancouver,210 - 1950 West 8th Avenue,Condo,Unfurnished,Long Term,Immediate,1800,$900 ,1 bd,1 ba,845 SF,No pets,Non-smoking,
+421,465225,Daniel McIntyre,Winnipeg,690 Toronto Street,House,Unfurnished,Long Term,Immediate,834,$834 ,3 bd,1 ba,,Cats & dogs negotiable,Non-smoking,
+593,465473,Briar Green - Leslie Park,Ottawa,151 Greenbank Road,Apartment,Unfurnished,Long Term,Immediate,1925,"$1,925 ",2 bd,1 ba,,No pets,Non-smoking,Underground
+448,465626,St. John's,Winnipeg,1 - 375 Machray Avenue,Duplex,Unfurnished,Long Term,Immediate,1195,"$1,195 ",2 bd,1 ba,,No pets,,
+660,465879,NS,Halifax,3075 Devonshire Avenue,Apartment,Unfurnished,Long Term,Immediate,1545,Other,1 bd,1 ba,670 ft2,Cats & dogs allowed,Non-smoking,Underground
+558,465982,Tanglewood,Ottawa,15 Woodfield Drive,House,Unfurnished,Long Term,Immediate,1839,"$1,839 ",3 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+142,466072,Winston Heights,Calgary,2124 6 Street Northeast,Basement,Unfurnished,Long Term,Immediate,895,$895 ,1 bd,1 ba,1250 ft2,No pets,Non-smoking,Outdoor
+73,466131,BC,Vancouver,520 Tenth Street,Apartment,Unfurnished,Long Term,Immediate,1500,"$1,500 ",1 bd,1 ba,,No pets,,
+162,466289,Beltline,Calgary,915 13th Avenue SW,Apartment,Unfurnished,Long Term,Immediate,1150,"$1,150 ",1 bd,1 ba,,No pets,,
+642,466625,QC,Montreal,3480 Des Erables,Duplex,Unfurnished,Long Term,Immediate,1200,"$1,200 ",2 bd,1 ba,,No pets,Non-smoking,
+428,466639,Crescentwood,Winnipeg,211 Guelph Street,Apartment,Unfurnished,Long Term,Immediate,864,Field: Market Rent/2,2 bd,2 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+474,466648,ON,Mississauga,5249 Dundas Street W,Apartment,Unfurnished,Long Term,Immediate,2025,"$2,025 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+143,466730,Edgemont,Calgary,Edgemont,Basement,Unfurnished,Long Term,Immediate,1250,"$1,250 ",2 bd,1 ba,1150 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+597,466732,QC,Montreal,1300 Ave Thérèse-Lavoie-Roux,Apartment,Unfurnished,Long Term,Immediate,1650,"$1,650 ",1 bd,1 ba,693 - 923,No pets,Non-smoking,Underground
+561,466839,Carlingwood West - Glabar Park - McKellar Heights,Ottawa,940 Woodroffe Avenue,Townhouse,Unfurnished,Long Term,Immediate,2395,"$2,395 ",3 bd,3.5 ba,,Cats & dogs negotiable,Outdoor Covered Single garage,
+88,467026,BC,Kelowna,McNaughton Road,House,Negotiable,Long Term,Immediate,4600,"$2,300 ",6 bd,4 ba,4300 ft2,Cats & dogs negotiable,Non-smoking,Single garage
+583,467217,Westboro,Ottawa,391 Greenwood,Apartment,Unfurnished,Long Term,Immediate,2400,"$2,400 ",2 bd,1 ba,,Cats negotiable,Non-smoking,Outdoor
+399,467225,Northeast Regina,Regina,112 Osler St,Duplex,Unfurnished,Long Term,Immediate,850,$850 ,2 bd,1 ba,800 ft2,Cats & dogs negotiable,Non-smoking,
+478,467862,ON,Mississauga,200 Robert Speck Parkway,Apartment,Unfurnished,Long Term,Immediate,2900,"$2,900 ",3 bd,2 ba,1100 ft2,No pets,Non-smoking,Covered
+155,467903,Mission,Calgary,208 Holy Cross Lane SW,Condo,Unfurnished,Long Term,Immediate,1575,"$1,575 ",1 bd + den,1 ba,,No pets,Non-smoking,Underground
+63,467934,BC,Vancouver,504 - 6950 Nicholson RD,Condo,Unfurnished,12 months,Immediate,1750,"$1,750 ",1 bd,1 ba,600 ft2,No pets,Non-smoking,
+80,467953,BC,Vancouver,803-2280 Bellevue Avenue,Apartment,Unfurnished,Long Term,Immediate,4000,"$4,000 ",2 bd,2 ba,1350 ft2,No pets,Non-smoking,Underground
+643,467979,QC,Montreal,7276 Champagneur,Apartment,Unfurnished,Long Term,Immediate,1550,"$1,550 ",3 bd,1 ba,,Cats & dogs negotiable,Non-smoking,
+433,468016,Bridgwater Forest,Winnipeg,224-235 Bridgeland Drive S,Apartment,Unfurnished,Long Term,Immediate,864,Field: Market Rent/2,2 bd,1 ba,840 ft2,No pets,Non-smoking,Outdoor
+154,468071,Rosscarrock,Calgary,1116B - 1116 40 Street Southwest,Basement,Unfurnished,Long Term,Immediate,850,$850 ,2 bd,1 ba,1000 ft2,No pets,Non-smoking,Outdoor
+92,468144,BC,Kelowna,851 Martin Avenue,Townhouse,Furnished,Short Term,Immediate,4500,"$4,500 ",3 bd,2.5 ba,1200 ft2,No pets,Non-smoking,
+13,468187,Oak Bay,Victoria,King George Terrace,House,Unfurnished,Negotiable,1-Dec-21,6499,"$6,499 ",4 bd + den,3.5 ba,3651 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+97,468196,BC,Kelowna,1232 Ellis Street,Condo,Furnished,Negotiable,Immediate,3500,"$1,750 ",2 bd + den,2 ba,1135 ft2,Cats & dogs negotiable,Non-smoking,
+291,468313,Eagle Ridge,Fort-Mcmurray,108 Woodpecker Green,Basement,Negotiable,Long Term,Immediate,2100,"$2,100 ",3 bd + den,3 ba,1800 ft2,No pets,Non-smoking,
+209,468424,Charlesworth,Edmonton,5207 Four Ave SW,Apartment,Unfurnished,Long Term,1-Dec-21,1299,"$1,299 ",1 bd,1 ba,673 ft2,Cats & dogs negotiable,Non-smoking,Underground
+610,468486,QC,Montreal,663 Bloomfield,Duplex,Unfurnished,Long Term,Immediate,2025,"$2,025 ",3 bd,2 ba,,No pets,Non-smoking,Outdoor
+451,468525,St. John's,Winnipeg,1 - 361 Saint Johns Avenue,Duplex,Unfurnished,Long Term,Immediate,995,$995 ,3 bd,1 ba,,No pets,,
+256,468560,Clearview Meadows,Red-Deer,"3, 41 Cosgrove Crescent",Townhouse,Unfurnished,Long Term,Immediate,1095,"$1,095 ",2 bd,1.5 ba,,No pets,Non-smoking,Outdoor
+425,468602,Bridgwater Forest,Winnipeg,229-235 Bridgeland Drive S,Apartment,Unfurnished,Long Term,Immediate,864,Field: Market Rent/2,2 bd,1 ba,840 ft2,No pets,Non-smoking,Outdoor
+120,468619,Altadore,Calgary,2107 34 Ave SW,Apartment,Unfurnished,Long Term,Immediate,1530,750,1 bd,1 ba,536 ft2,Cats & dogs negotiable,Non-smoking,Underground
+123,468620,Beltline,Calgary,1177 11 Ave SW,Apartment,Unfurnished,Long Term,Immediate,1330,750,1 bd,1 ba,617 ft2,Cats & dogs negotiable,Non-smoking,Underground
+153,468629,Tuxedo Park,Calgary,115 31Ave Northwest,House,Furnished,Long Term,Immediate,1800,"$1,800 ",3 bd,2.5 ba,1670 ft2,No pets,Non-smoking,
+510,468655,ON,Toronto,608 Richmond Street West,Apartment,Unfurnished,Long Term,Immediate,1995,"$2,050 ",1 bd,1 ba,500 ft2,Cats & dogs negotiable,Non-smoking,
+57,468717,BC,Vancouver,7465 13th Avenue,Apartment,Unfurnished,Long Term,Immediate,1430,"$1,430 ",1 bd,1 ba,,No pets,,
+383,468742,McNab,Regina,1686 Alexandra St,House,Unfurnished,Long Term,Immediate,1600,"$1,600 ",2 bd,2 ba,,No pets,Non-smoking,
+110,468881,BC,Kelowna,701 - 1152 Sunset Drive,Condo,Unfurnished,Long Term,1-Dec-21,2400,"$1,200 ",2 bd,2 ba,1200 ft2,No cats,Non-smoking,Underground
+213,469049,Michener Hill,Red-Deer,107 - 4732 54 Street,Condo,Unfurnished,Long Term,Immediate,874,$874 ,2 bd,1 ba,775 ft2,Cats negotiable,Non-smoking,Outdoor
+96,469087,BC,Kelowna,1191 Sunset Drive,Apartment,Furnished,Negotiable,Immediate,2950,"$2,950 ",1 bd + den,1 ba,600 ft2,Cats & dogs negotiable,Non-smoking,
+366,469232,North Central,Regina,906 Argyle Street,House,Unfurnished,Long Term,Immediate,1000,"$1,000 ",1 bd,1 ba,592 ft2,Cats & dogs negotiable,Covered Covered Single garage,
+286,469239,Lower Townsite,Fort-Mcmurray,8528 - Site 614.,Apartment,Furnished,Long Term,Immediate,1300,"$1,300 ",1 bd,1 ba,,No pets,Non-smoking,Underground
+452,469312,ON,Mississauga,35 Ruby Lang Lane,Townhouse,Unfurnished,Long Term,Immediate,4095,"$4,100 ",3 bd + den,3 ba,2000 ft2,No pets,Non-smoking,Outdoor
+514,469312,ON,Toronto,35 Ruby Lang Lane,Townhouse,Unfurnished,Long Term,Immediate,4095,"$4,100 ",3 bd + den,3 ba,2000 ft2,No pets,Non-smoking,Outdoor
+664,469317,NS,Halifax,,House,Unfurnished,Long Term,Immediate,3000,"$1,500 ",4 bd,3 ba,2010 ft2,No pets,Non-smoking,
+445,469333,River - Osborne,Winnipeg,40 Osborne St.,Apartment,Unfurnished,Long Term,Immediate,1199,"$1,199 ",2 bd,1 ba,,No pets,Non-smoking,Outdoor
+229,469451,Inglewood West,Red-Deer,1411 - 12A Ironside Street,Apartment,Unfurnished,Long Term,Immediate,1195,"$1,195 ",2 bd,1 ba,,No pets,Non-smoking,
+78,469580,North Vancouver,Vancouver,125 E 14th St,Apartment,Unfurnished,Long Term,Immediate,4680,"$2,500 ",2 bd,2 ba,1250 ft2,No pets,Non-smoking,Underground
+255,469640,Highland Green,Red-Deer,5812 61 Street,Condo,Negotiable,Long Term,Immediate,1200,"$1,200 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Street
+111,469731,BC,Kelowna,38 - 625 Boynton Place,Townhouse,Unfurnished,Long Term,1-Dec-21,3500,"$1,750 ",2 bd,2 ba,2350 ft2,Cats & dogs negotiable,Non-smoking,Single garage
+596,469754,QC,Montreal,1 Glenmore,Apartment,Unfurnished,Long Term,Immediate,1375,"$1,375 ",1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+254,469777,Deer Park Estates,Red-Deer,6 Dale Close,Townhouse,Unfurnished,Long Term,Immediate,1500,"$1,500 ",2 bd,1 ba,1100 ft2,Cats & dogs negotiable,Non-smoking,
+149,469799,Beltline,Calgary,1508 - 836 15th Ave SW,Condo,Unfurnished,Long Term,Immediate,1700,"$1,700 ",1 bd + den,1 ba,720 ft2,Cats & dogs negotiable,Non-smoking,Underground
+438,469921,Linden Woods,Winnipeg,5112-173 Victor Lewis Drive,Apartment,Unfurnished,Long Term,Immediate,797,Field: Market Rent/2,2 bd,1 ba,872 ft2,No pets,Non-smoking,Outdoor
+435,469922,River - Osborne,Winnipeg,3-316 Stradbrook Avenue,Apartment,Furnished,Long Term,Immediate,797,$797 ,2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,
+430,469924,Bridgwater Forest,Winnipeg,114-235 Bridgeland Drive S,Apartment,Unfurnished,Long Term,Immediate,930,Field: Market Rent/2,2 bd,1 ba,1016 ft2,No pets,Non-smoking,Outdoor
+427,469926,Bridgwater Forest,Winnipeg,304-235 Bridgeland Drive S,Apartment,Unfurnished,Long Term,Immediate,930,Field: Market Rent/2,2 bd,1 ba,1016 ft2,No pets,Non-smoking,Outdoor
+108,469944,BC,Kelowna,117 - 725 Academy Way,Condo,Furnished,Long Term,1-Dec-21,2900,"$1,450 ",3 bd,3 ba,915 ft2,Cats & dogs negotiable,Non-smoking,
+281,470144,Timberlea,Fort-Mcmurray,339 Powder Drive,Apartment,Unfurnished,Long Term,Immediate,1500,"$1,500 ",1 bd,1 ba,639 ft2,Cats & dogs negotiable,Non-smoking,
+185,470145,Killarney,Edmonton,9550 & 9604 129B Ave,Apartment,Unfurnished,Long Term,Immediate,733,$733 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+184,470147,Callingwood,Edmonton,7602 172 St,Apartment,Unfurnished,Long Term,Immediate,899,$899 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+503,470188,ON,Toronto,200 Redpath Avenue,Apartment,Unfurnished,Long Term,1-Apr-22,2155,"$2,155 ",1 bd,1 ba,547 - 548,Cats & dogs negotiable,Non-smoking,
+55,470200,Fairview,Vancouver,1025 West 11th Ave,Apartment,Unfurnished,Long Term,Immediate,2550,"$2,550 ",2 bd,1 ba,950 ft2,No pets,Non-smoking,Street
+497,470234,ON,Mississauga,12 Conifer Drive,Apartment,Unfurnished,Long Term,Immediate,1245,"$1,250 ",1 bd,1 ba,600 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+172,470242,Downtown,Edmonton,10045 111 Street NW,Apartment,Unfurnished,Long Term,Immediate,1342,$500 ,1 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
+100,470358,BC,Kelowna,Bluebird Road,House,Furnished,Short Term,Immediate,1600,"$1,600 ",1 bd + den,1 ba,750 ft2,No pets,Non-smoking,
+121,470371,Beltline,Calgary,1229 Macleod Trail SE,Apartment,Unfurnished,Long Term,Immediate,1475,"$1,000 ",1 bd,1 ba,559 ft2,Cats & dogs negotiable,Non-smoking,Underground
+710,470484,NL,St-John-S,,Apartment,Unfurnished,Long Term,Immediate,1600,"$1,600 ",3 bd + den,1.5 ba,1400 ft2,No pets,Non-smoking,Outdoor
+436,470497,Waverley Heights,Winnipeg,507-60 Shore Street,Apartment,Unfurnished,Long Term,Immediate,895,Field: Market Rent/2,2 bd,2 ba,1016 ft2,No pets,Non-smoking,Outdoor
+279,470703,Thickwood,Fort-Mcmurray,117 - 400 Silin Forest Road,Townhouse,Unfurnished,Long Term,Immediate,1675,"$1,675 ",2 bd,1.5 ba,1800 ft2,No pets,Non-smoking,Single garage
+9,470706,Downtown,Victoria,404 - 888 Government Street,Condo,Unfurnished,Long Term,Immediate,4200,"$4,200 ",2 bd,2 ba,1281 ft2,Cats & dogs negotiable,Non-smoking,
+242,470778,Inglewood East,Red-Deer,156 Illingworth Close,House,Unfurnished,Long Term,Immediate,3000,"$3,000 ",4 bd,3.5 ba,2436 ft2,No pets,Non-smoking,
+107,470820,BC,Kelowna,205 - 722 Valley Road,Condo,Unfurnished,Long Term,1-Dec-21,1700,$850 ,1 bd + den,1 ba,742 ft2,No pets,Non-smoking,Underground
+104,470823,BC,Kelowna,211 - 1350 Ridgeway Drive,Condo,Unfurnished,Long Term,1-Dec-21,2100,"$1,050 ",2 bd,2 ba,931 ft2,Cats & dogs negotiable,Non-smoking,
+106,470836,BC,Kelowna,402 - 1883 Water Street,Condo,Unfurnished,Long Term,1-Dec-21,2850,"$1,425 ",3 bd,2 ba,,No pets,Non-smoking,Underground
+115,470920,BC,Kelowna,333 & 335 & 337 Drysdale Boulevard,Apartment,Unfurnished,Long Term,3-Jan-22,2199,"$1,100 ",2 bd,2 ba,,No pets,Non-smoking,Outdoor
+671,470921,NS,Halifax,58 Holtwood Court,Apartment,Unfurnished,Long Term,15-Jan-22,1849,"$1,849 ",2 bd + den,2 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+12,470960,Hillside - Quadra,Victoria,307 - 991 McKenzie Avenue,Condo,Unfurnished,Negotiable,1-Dec-21,2200,"$2,200 ",1 bd + den,1 ba,603 ft2,No pets,Non-smoking,
+222,471015,Rosedale Meadows,Red-Deer,35 Reighley Close,House,Unfurnished,Long Term,Immediate,2195,"$2,195 ",4 bd,3 ba,,Cats & dogs negotiable,Non-smoking,Double garage
+494,471092,ON,Mississauga,36 Nordin Avenue,Apartment,Unfurnished,Long Term,Immediate,2495,"$2,500 ",3 bd,1 ba,1200 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+276,471112,Eagle Ridge,Fort-Mcmurray,217 - 136a Sandpiper Road,Condo,Furnished,Negotiable,Immediate,1725,"$1,725 ",1 bd,1 ba,864 ft2,No pets,Non-smoking,
+278,471113,Eagle Ridge,Fort-Mcmurray,217 - 136a Sandpiper Road,Condo,Unfurnished,Negotiable,Immediate,1600,"$1,600 ",1 bd,1 ba,865 ft2,No pets,Non-smoking,
+277,471115,Eagle Ridge,Fort-Mcmurray,118 - 136d Sandpiper Road,Condo,Furnished,Negotiable,Immediate,1750,"$1,750 ",1 bd,1 ba,864 ft2,No pets,Non-smoking,
+7,471156,James Bay,Victoria,647 Michigan Street,Apartment,Unfurnished,Long Term,Immediate,1500,"$1,500 ",1 bd,1 ba,,No pets,,
+136,471183,Connaught,Calgary,850 11th Street SW,Apartment,Unfurnished,Long Term,Immediate,1450,"$1,450 ",1 bd,1 ba,627 ft2,Cats & dogs negotiable,Non-smoking,Underground
+5,471198,Hillside - Quadra,Victoria,3244 Quadra Street,Apartment,Unfurnished,Long Term,Immediate,1750,"$1,750 ",2 bd,1 ba,,No pets,,
+443,471240,Rossmere - A,Winnipeg,5 - 475 Edison Avenue,Apartment,Unfurnished,Long Term,Immediate,997,$997 ,1 bd,1 ba,650 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+114,471392,BC,Kelowna,1876 Dewdney Road,House,Furnished,Long Term,1-Jan-22,9000,"$9,000 ",4 bd + den,3 ba,2400 ft2,No pets,Non-smoking,
+84,471475,BC,Vancouver,567 Clarke Street,Apartment,Unfurnished,Long Term,Immediate,1950,$975 ,1 bd,1 ba,538 ft2,No pets,Non-smoking,Underground
+273,471479,Parsons Creek,Fort-Mcmurray,197 Collicott Drive,Basement,Unfurnished,Long Term,Immediate,1200,"$1,200 ",1 bd,1 ba,,No pets,Non-smoking,
+156,471486,Bridgeland,Calgary,104 - 626 2 Ave NE,Condo,Unfurnished,Long Term,Immediate,1150,"$1,150 ",2 bd,1 ba,850 ft2,Cats & dogs negotiable,Non-smoking,
+477,471531,ON,Mississauga,654 Eaglemount Crescent,Apartment,Unfurnished,Long Term,Immediate,1295,"$1,300 ",1 bd,1 ba,750 ft2,No pets,Non-smoking,Outdoor
+83,471598,BC,Vancouver,901 Cliff Ave,Duplex,Unfurnished,Long Term,Immediate,3895,"$3,895 ",4 bd,4 ba,1875 ft2,Cats & dogs negotiable,Non-smoking,Covered
+403,471626,Normanview,Regina,22-80 Handbidge Crescent,Apartment,Unfurnished,Long Term,Immediate,750,$750 ,1 bd + den,1 ba,820 ft2,No pets,Non-smoking,Outdoor
+569,471627,The Glebe,Ottawa,28 Pretoria Avenue,Apartment,Unfurnished,Long Term,Immediate,1700,"$1,700 ",1 bd,1 ba,504 ft2,Cats & dogs negotiable,Non-smoking,Covered
+226,471856,South Hill,Red-Deer,5029 34 Street,Parking Spot,,,,550,$550 ,Long Term,Immediate,,Street,,
+480,471874,ON,Mississauga,1078 Eastmount Avenue,Apartment,Unfurnished,Long Term,Immediate,2195,"$2,200 ",2 bd,1 ba,950 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+137,471916,Cornerstone,Calgary,3964 Cornerstone Boulevard,Basement,Unfurnished,Negotiable,Immediate,950,$950 ,1 bd,1 ba,850 ft2,No pets,Non-smoking,
+163,472102,Arbour Lake,Calgary,250 Arbour Stone Place NW,Main Floor,Unfurnished,Long Term,Immediate,1500,"$1,500 ",3 bd,2 ba,1250 ft2,Cats negotiable,Non-smoking,
+476,472106,ON,Mississauga,125 Algoma Street,Apartment,Unfurnished,Long Term,Immediate,3195,"$3,200 ",3 bd,2 ba,1200 ft2,No pets,Non-smoking,Outdoor
+475,472108,ON,Mississauga,1119 1185 The Queensway,Apartment,Unfurnished,Long Term,Immediate,2495,"$2,650 ",2 bd,2 ba,900 ft2,No pets,Non-smoking,Outdoor
+397,472159,Northeast Regina,Regina,530 Toronto St,Apartment,Unfurnished,Long Term,Immediate,1050,"$1,050 ",2 bd,1 ba,1020 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+464,472175,ON,Mississauga,50 Thomas Riley Road,Apartment,Unfurnished,Long Term,Immediate,2345,"$2,500 ",2 bd,2 ba,850 ft2,Cats & dogs negotiable,Non-smoking,
+113,472182,BC,Kelowna,2975 Ensign Way,House,Unfurnished,Long Term,15-Dec-21,4000,"$2,000 ",5 bd,3 ba,3070 ft2,No pets,Non-smoking,Single garage
+139,472213,Panorama Hills,Calgary,Panorama Hills,House,Unfurnished,Long Term,Immediate,1850,"$1,850 ",3 bd,2.5 ba,1856 ft2,No pets,Non-smoking,
+392,472253,North Central,Regina,1020 King Street,House,Unfurnished,Long Term,Immediate,950,$950 ,2 bd,1 ba,,No pets,Non-smoking,Outdoor
+466,472309,ON,Mississauga,26 Gibbs Road,Apartment,Unfurnished,Long Term,Immediate,1745,"$1,900 ",1 bd,1 ba,500 ft2,Cats & dogs negotiable,Non-smoking,
+426,472356,River - Osborne,Winnipeg,201-369 Stradbrook Avenue,Apartment,Unfurnished,Long Term,Immediate,895,Field: Market Rent/2,2 bd,1 ba,870 ft2,No pets,Non-smoking,Outdoor
+441,472357,Seven Oaks,Winnipeg,522 Seven Oaks Avenue,House,Unfurnished,Long Term,Immediate,1595,Field: Market Rent/2,3 bd,2.5 ba,1222 ft2,No pets,Non-smoking,Outdoor
+636,472386,QC,Montreal,1350 Lajoie,Apartment,Furnished,Long Term,Immediate,1745,$100 ,2 bd,1 ba,,Cats negotiable,Non-smoking,
+629,472390,QC,Montreal,3245 Boul. Langelier,Apartment,Unfurnished,Long Term,Immediate,930,$100 ,1 bd,1 ba,,No pets,Non-smoking,
+641,472393,ON,Montreal,9360 Rue Centrale,Apartment,Unfurnished,Long Term,Immediate,995,$100 ,1 bd,1 ba,,No pets,Non-smoking,Outdoor
+225,472420,Downtown,Red-Deer,4311 49 Avenue,Apartment,Furnished,Long Term,Immediate,1195,"$1,195 ",1 bd,1 ba,,Cats negotiable,Non-smoking,Outdoor
+587,472467,South Keys - Greenboro West,Ottawa,3234 Southgate Rd,Townhouse,Unfurnished,Long Term,Immediate,1995,"$1,995 ",3 bd,1.5 ba,,No pets,Non-smoking,Outdoor
+312,472491,Evergreen,Saskatoon,212 - Evergreen Square,Apartment,Unfurnished,Long Term,Immediate,1525,"$1,525 ",2 bd,2 ba,911 ft2,No pets,,
+322,472492,Lawson Heights,Saskatoon,# B Feheregyhazi Blvd,Apartment,Unfurnished,Long Term,Immediate,995,$995 ,2 bd,1 ba,689 ft2,No pets,,
+320,472493,Aspen Ridge,Saskatoon,# A Feheregyhazi Blvd,Apartment,Unfurnished,Long Term,Immediate,1899,"$1,899 ",3 bd,2.5 ba,1600 ft2,No pets,,
+318,472494,Lawson Heights,Saskatoon,# B Kalra Street,Apartment,Unfurnished,Long Term,Immediate,975,$975 ,2 bd,1 ba,691 ft2,No pets,,
+317,472495,City Park,Saskatoon,303 - 5th Ave N,Apartment,Unfurnished,Long Term,Immediate,1195,"$1,195 ",1 bd,1 ba,904 ft2,No pets,,
+315,472497,Hampton Village,Saskatoon,214 - McClocklin Road,Apartment,Unfurnished,Long Term,Immediate,1295,"$1,295 ",2 bd,1 ba,953 ft2,No pets,,
+314,472498,Kensington,Saskatoon,# B Kensington Road,Apartment,Unfurnished,Long Term,Immediate,899,$899 ,2 bd,1 ba,,No pets,,
+313,472499,Riversdale,Saskatoon,231 - Ave C S,Apartment,Unfurnished,Long Term,Immediate,1375,"$1,375 ",1 bd,1 ba,,No pets,,
+323,472500,Evergreen,Saskatoon,# B Evergreen Blvd - Evergreen Blvd 518,Apartment,Unfurnished,Long Term,Immediate,875,$875 ,2 bd,1 ba,700 ft2,No pets,,
+321,472501,Exhibition,Saskatoon,1 - Ste. Cecilia Ave,Apartment,Unfurnished,Long Term,Immediate,1250,"$1,250 ",2 bd,1 ba,834 ft2,No pets,,
+440,472512,River - Osborne,Winnipeg,412-369 Stradbrook Avenue,Apartment,Unfurnished,Long Term,Immediate,895,Field: Market Rent/2,2 bd,1 ba,925 ft2,No pets,Non-smoking,Outdoor
+576,472518,Hintonburg - Mechanicsville,Ottawa,1 181 Preston Street,Apartment,Unfurnished,Long Term,Immediate,1300,"$1,300 ",1 bd,1 ba,,No pets,Non-smoking,
+573,472519,Centretown,Ottawa,514 Bay Street,Apartment,Unfurnished,Long Term,Immediate,2250,"$2,250 ",3 bd,1 ba,,No pets,Non-smoking,Outdoor
+462,472533,ON,Mississauga,25 Mullis Crescent,House,Unfurnished,Long Term,Immediate,2800,"$2,800 ",3 bd,1.5 ba,1340 ft2,No pets,Non-smoking,Single garage
+461,472534,ON,Mississauga,50 Thomas Riley Road,Apartment,Unfurnished,Long Term,Immediate,1945,"$2,100 ",1 bd,1 ba,775 ft2,Cats & dogs negotiable,Non-smoking,Outdoor
+46,472578,BC,Vancouver,312 11th Street,Main Floor,Unfurnished,Long Term,Immediate,1700,$850 ,2 bd,1 ba,900 ft2,Cats negotiable,Non-smoking,
+523,472602,ON,Toronto,23 Cromwell Road,House,Unfurnished,Long Term,Immediate,2895,"$2,900 ",4 bd,1.5 ba,,No pets,Non-smoking,
+537,472604,ON,Toronto,38 Forest Manor Road,Apartment,Unfurnished,Long Term,Immediate,2295,"$2,450 ",2 bd,2 ba,825 ft2,No pets,Non-smoking,
+364,472606,Uplands,Regina,39 Rodenbush Drive,Apartment,Unfurnished,Long Term,Immediate,1200,"$1,200 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,
+520,472613,ON,Toronto,251 Jarvis Street,Apartment,Unfurnished,Long Term,Immediate,1445,"$1,500 ",1 bd,1 ba,350 ft2,No pets,Non-smoking,
+538,472625,ON,Toronto,88 Corporate Drive,Apartment,Unfurnished,Long Term,Immediate,2595,"$2,700 ",2 bd,2 ba,1100 ft2,No pets,,
+607,472627,QC,Montreal,409 5e avenue,Duplex,Unfurnished,Long Term,Immediate,1300,"$1,300 ",1 bd,1 ba,1000 ft2,No pets,,
+141,472637,Beltline,Calgary,1030 12th Ave SW,Apartment,Furnished,Long Term,Immediate,945,$945 ,studio,1 ba,400 ft2,No pets,Non-smoking,Outdoor
+146,472684,Castleridge,Calgary,160 Castlebrook Road Northeast,House,Unfurnished,Long Term,Immediate,1750,"$1,750 ",5 bd,1.5 ba,1041 ft2,No pets,Non-smoking,
+505,472691,ON,Toronto,28 KALMAR AVENUE,House,Unfurnished,Long Term,Immediate,2000,"$2,000 ",3 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Outdoor
+507,472692,ON,Toronto,150 SUDBURY STREET,Apartment,Unfurnished,Long Term,Immediate,1800,"$1,800 ",studio,1 ba,,Cats & dogs negotiable,Non-smoking,
+515,472693,ON,Toronto,38 FOREST MANOR DRIVE,Apartment,Unfurnished,Long Term,Immediate,2100,"$2,100 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,
+508,472694,ON,Toronto,775 KING STREET WEST,Apartment,Unfurnished,Long Term,Immediate,2295,"$2,295 ",2 bd,1 ba,,Cats & dogs negotiable,Non-smoking,Underground
