@@ -8,13 +8,6 @@ from conn import conn_params_warehouse_dic, connect_to_warehouse
 
 s3 = boto3.client('s3')
 
-conn_params_dic = {
-    "host"      : "rentalwarehouse.cwoiba8doqsq.eu-central-1.redshift.amazonaws.com",
-    "database"  : "dev",
-    "user"      : "lilit1996",
-    "password"  : "Lilit1996",
-    "port" : 5439
-} 
 
 def connect_to_db(instance_params: dict):
     """ Connect to the PostgreSQL database server """
